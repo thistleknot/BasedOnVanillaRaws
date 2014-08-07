@@ -278,7 +278,6 @@ http://www.bay12forums.com/smf/index.php?topic=80022.0
 [ITEMS_HARD]
 [IS_STONE]
 
-
 [INORGANIC:TETRAHEDRITE]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
 [STATE_NAME_ADJ:ALL_SOLID:tetrahedrite][DISPLAY_COLOR:0:7:1][TILE:139]
@@ -311,7 +310,6 @@ this is common gypsum, 3 vars below, any gypsum can be heated to and then mixed 
 [IS_STONE]
 [REACTION_CLASS:GYPSUM]
 [MELTING_POINT:10261]
-
 
 
 [INORGANIC:JET]
@@ -396,6 +394,7 @@ aluminum can occasionally be found in its free form in environments that like ox
 [ITEMS_HARD]
 [IS_STONE]
 
+
 [INORGANIC:OLIVINE]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
 [STATE_NAME_ADJ:ALL_SOLID:olivine][DISPLAY_COLOR:2:7:0][TILE:132]
@@ -423,6 +422,7 @@ used with kaolinite sometimes for ceramics
 [IS_STONE]
 [REACTION_CLASS:GYPSUM]
 [MELTING_POINT:10261]
+
 
 [INORGANIC:RAW_ADAMANTINE]
 [ITEM_SYMBOL:'*']
