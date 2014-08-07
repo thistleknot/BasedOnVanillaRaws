@@ -578,7 +578,7 @@ creature_savage_tropical
 <<<<<<< HEAD
 		[MULTIPLY_VALUE:4]
 
-[CREATURE:TIGERMAN] ###From 34.11
+[CREATURE:TIGERMAN]
 	[DESCRIPTION:An orange striped man with the head of a tiger.]
 	[NAME:tigerman:tigermen:tigerman]
 	[CASTE_NAME:tigerman:tigermen:tigerman]
