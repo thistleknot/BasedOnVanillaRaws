@@ -1,0 +1,8 @@
+Use DwarfFortressConfig.exe to customize your tileset, update your savegames and change unit graphics to your preferences.
+
+
+To gain some FPS you can try switching [PRINT_MODE:2D] to [PRINT_MODE:STANDARD] in "/data/init/init.txt".
+Warning, the STANDARD print_mode can cause crashes on some computers.
+
+
+To use a tileset with punctuation, it could help to edit data/init/d_init.txt and change '[VARIED_GROUND_TILES:YES]' to '[VARIED_GROUND_TILES:NO]'. This will make the game only use the period "." tile for ground tiles.

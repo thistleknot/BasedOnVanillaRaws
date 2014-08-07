@@ -47,6 +47,8 @@ item_pants
 [LEATHER]
 [BARRED]
 [STRUCTURAL_ELASTICITY_CHAIN_METAL]
+<<<<<<< HEAD
+=======
 
 [ITEM_PANTS:ITEM_PANTS_LOINCLOTH]
 [NAME:loincloth:loincloths]
@@ -119,3 +121,4 @@ item_pants
 [SOFT]
 [LEATHER]
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
+>>>>>>> 40-06-phoebus
