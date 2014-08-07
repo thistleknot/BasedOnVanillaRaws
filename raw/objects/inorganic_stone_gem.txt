@@ -36,7 +36,6 @@ I'm leaving this data here in case it can someday be used to organize things in 
 [SOLID_DENSITY:2650]  Common to quartz gems
 [STATE_COLOR:ALL_SOLID:BLACK]
 
-
 [INORGANIC:BLUE JADE]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
 [MATERIAL_VALUE:2][DISPLAY_COLOR:1:7:1][TILE:169][IS_GEM:blue jade:STP:OVERWRITE_SOLID]
@@ -74,6 +73,7 @@ I'm leaving this data here in case it can someday be used to organize things in 
 [SOLID_DENSITY:2115]  Common to opals.  Range is 1980 - 2250
 [STATE_COLOR:ALL_SOLID:FLAX]
 
+
 [INORGANIC:TIGEREYE]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
 [MATERIAL_VALUE:2][DISPLAY_COLOR:6:7:1][TILE:169][IS_GEM:tigereye:STP:OVERWRITE_SOLID]
@@ -95,6 +95,7 @@ I'm leaving this data here in case it can someday be used to organize things in 
 [ENVIRONMENT_SPEC:GNEISS:CLUSTER_SMALL:100]
 [SOLID_DENSITY:2655]  Common to feldspars.  Range is 2550 - 2760
 [STATE_COLOR:ALL_SOLID:PUMPKIN]  Is actually red with shiny yellow flecks in it.
+
 
 [INORGANIC:PYRITE]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
@@ -127,7 +128,6 @@ I'm leaving this data here in case it can someday be used to organize things in 
 [ENVIRONMENT:METAMORPHIC:CLUSTER_SMALL:100]
 [SOLID_DENSITY:2655]  Common to feldspars.  Range is 2550 - 2760
 [STATE_COLOR:ALL_SOLID:IVORY]  It shines a beautful blue in some lighting.
-
 
 [INORGANIC:AVENTURINE]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
@@ -169,14 +169,12 @@ I'm leaving this data here in case it can someday be used to organize things in 
 [STATE_COLOR:ALL_SOLID:BLACK]
 
 
-
 [INORGANIC:GREEN JADE]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
 [MATERIAL_VALUE:20][DISPLAY_COLOR:2:7:1][TILE:170][IS_GEM:green jade:STP:OVERWRITE_SOLID]
 [ENVIRONMENT:ALLUVIAL:CLUSTER_SMALL:100]
 [SOLID_DENSITY:3000]  Common to jades.  Range is 2900 - 3100
 [STATE_COLOR:ALL_SOLID:JADE]
-
 
 [INORGANIC:RED BERYL]red beryl is very rare
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
@@ -192,6 +190,7 @@ I'm leaving this data here in case it can someday be used to organize things in 
 [ENVIRONMENT:ALL_STONE:CLUSTER_SMALL:8]
 [SOLID_DENSITY:2115]  Common to opals.  Range is 1980 - 2250
 [STATE_COLOR:ALL_SOLID:SCARLET]
+
 
 [INORGANIC:ALEXANDRITE]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
@@ -213,11 +212,10 @@ Of course, it should also be really rare, because it only occurs in one part of 
 
 [INORGANIC:TOPAZ]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
-[MATERIAL_VALUE:20][DISPLAY_COLOR:6:7:1][TILE:170][IS_GEM:topaz:STP:OVERWRITE_SOLID]
+[MATERIAL_VALUE:20][DISPLAY_COLOR:6:7:1][TILE:15][IS_GEM:topaz:STP:OVERWRITE_SOLID]
 [ENVIRONMENT_SPEC:GRANITE:CLUSTER_SMALL:100]
 [SOLID_DENSITY:3550]  Range of 3500 - 3600
 [STATE_COLOR:ALL_SOLID:GOLDENROD]
-
 
 [INORGANIC:RUBICELLE]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
@@ -236,6 +234,7 @@ Of course, it should also be really rare, because it only occurs in one part of 
 [ENVIRONMENT_SPEC:GRANITE:CLUSTER_SMALL:100]
 [SOLID_DENSITY:3900]  Common to garnets.  Range is 3500 - 4300
 [STATE_COLOR:ALL_SOLID:CLEAR]
+
 
 [INORGANIC:CAT'S EYE]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
@@ -291,7 +290,7 @@ Of course, it should also be really rare, because it only occurs in one part of 
 [ENVIRONMENT:ALL_STONE:CLUSTER_SMALL:8]
 [SOLID_DENSITY:2115]  Common to opals.  Range is 1980 - 2250
 [STATE_COLOR:ALL_SOLID:RED]  As always, opals vary in color a lot.
-
+980 - 2250
 
 [INORGANIC:DIAMOND_LY]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
@@ -300,7 +299,7 @@ Of course, it should also be really rare, because it only occurs in one part of 
 [IGNITE_POINT:11440]
 [MELTING_POINT:NONE]
 [BOILING_POINT:16708]
-[ENVIRONMENT_SPEC:GRANITE:CLUSTER_SMALL:100]
+[ENVIRONMENT_SPEC:BAUXITE:CLUSTER_SMALL:100]
 [SOLID_DENSITY:3520]
 [STATE_COLOR:ALL_SOLID:CREAM]
 
@@ -313,7 +312,7 @@ Of course, it should also be really rare, because it only occurs in one part of 
 [IGNITE_POINT:11440]
 [MELTING_POINT:NONE]
 [BOILING_POINT:16708]
-[ENVIRONMENT_SPEC:GABBRO:CLUSTER_SMALL:100]
+[ENVIRONMENT_SPEC:BAUXITE:CLUSTER_SMALL:100]
 [SOLID_DENSITY:3520]
 [STATE_COLOR:ALL_SOLID:BEIGE]
 
@@ -321,7 +320,6 @@ Of course, it should also be really rare, because it only occurs in one part of 
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
 [TILE:171][IS_GEM:emerald:STP:OVERWRITE_SOLID][DISPLAY_COLOR:2:7:0][MATERIAL_VALUE:40]
 [ENVIRONMENT_SPEC:GRANITE:CLUSTER_SMALL:100]
-
 [ENVIRONMENT_SPEC:MARBLE:CLUSTER_SMALL:100]
 [SOLID_DENSITY:2770]  Common to beryls.  Range 2630 - 2910
 [STATE_COLOR:ALL_SOLID:EMERALD]
