@@ -2,6 +2,13 @@ material_template_default
 
 [OBJECT:MATERIAL_TEMPLATE]
 
+Changes:
+
+ Search for ##
+
+ Changed skin to glob - More Leather
+ Changed Leather to add a reaction class
+
 [MATERIAL_TEMPLATE:STONE_TEMPLATE]
 	These are the state names, adjectives and colors for the material.
 	[STATE_COLOR:ALL_SOLID:GRAY]
@@ -202,6 +209,10 @@ material_template_default
 	This lets the game know that an animal was likely killed in the production of this item.
 	[IMPLIES_ANIMAL_KILL]
 	[ROTS]
+	##[STOCKPILE_GLOB]
+	##[DO_NOT_CLEAN_GLOB]
+	##[BUTCHER_SPECIAL:GLOB:NONE]
+	##[REACTION_CLASS:SKIN]
 
 [MATERIAL_TEMPLATE:FAT_TEMPLATE]
 	[STATE_COLOR:ALL_SOLID:YELLOW]
@@ -1315,6 +1326,8 @@ material_template_default
 	[BENDING_STRAIN_AT_YIELD:50000]
 	[MAX_EDGE:0]
 	[ABSORPTION:40]
+	##[REACTION_CLASS:LEVEL_1]
+	##[MATERIAL_REACTION_PRODUCT:TAN_UPGRADE:LOCAL_CREATURE_MAT:LEATHER_2]
 	[IMPLIES_ANIMAL_KILL]
 	[LEATHER]
 	[ITEMS_LEATHER]

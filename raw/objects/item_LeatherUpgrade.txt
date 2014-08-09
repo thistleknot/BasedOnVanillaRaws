@@ -1,0 +1,12 @@
+item_tool_leatherupgrade
+
+[OBJECT:ITEM]
+
+[ITEM_TOOL:ITEM_TOOL_ARMOR_STUD]
+[NAME:pile of armor studs:pile of armor studs]
+[VALUE:1]
+[UNIMPROVABLE]
+[HARD_MAT]
+[TILE:33]
+[SIZE:100]
+[MATERIAL_SIZE:1]
