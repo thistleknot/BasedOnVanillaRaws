@@ -130,7 +130,7 @@ Octopuses were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:intelligence]
 	[PREFSTRING:many arms]
@@ -238,7 +238,7 @@ Crabs were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:4:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:pincers]
 	[PREFSTRING:sideways walk]
@@ -369,7 +369,7 @@ Leopard seals were sponsored by the generous contributions of the Bay 12 communi
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:fierce nature]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
@@ -504,7 +504,7 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:ability to change color]
 	[PREFSTRING:distinctive pupils]
@@ -637,7 +637,7 @@ Orcas were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[PREFSTRING:great jumps]
@@ -726,7 +726,7 @@ Sponges were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:4:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:squishy texture]
 
@@ -823,7 +823,7 @@ Horseshoe crabs were sponsored by the generous contributions of the Bay 12 commu
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:ability to hide in sand]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
@@ -958,7 +958,7 @@ Sperm whales were sponsored by the generous contributions of the Bay 12 communit
 	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:teeth]
 	[PREFSTRING:vengeful nature]
@@ -1091,7 +1091,7 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:large floppy noses]
 	[PREFSTRING:great size]
@@ -1220,7 +1220,7 @@ Harp seals were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:adorable pups]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
@@ -1345,7 +1345,7 @@ Nautiluses were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:4:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:shells]
 	[PREFSTRING:many tentacles]

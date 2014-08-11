@@ -10,7 +10,8 @@ creature_large_tropical
 	[CREATURE_TILE:'E'][COLOR:7:0:0]
 	[PETVALUE:500]
 	[PET]
-	[GRAZER:12] don't have browsing trees yet
+	(GRAZER:12) don't have browsing trees yet
+	[GRAZER:52]	changed by Igfig
 	[MOUNT_EXOTIC]
 	[TRAINABLE]
 	[LARGE_ROAMING]
@@ -96,7 +97,8 @@ creature_large_tropical
 	[CREATURE_TILE:'W'][COLOR:6:0:0]
 	[PETVALUE:100]
 	[PET_EXOTIC]
-	[GRAZER:600]
+	(GRAZER:600)
+	[GRAZER:1209]	changed by Igfig
 	[VISION_ARC:50:310]
 	[PREFSTRING:short tempers]
 	[GRASSTRAMPLE:0]
@@ -692,7 +694,8 @@ creature_large_tropical
 	[CREATURE_TILE:'g'][COLOR:6:0:0]
 	[PETVALUE:50]
 	[PET_EXOTIC]
-	[GRAZER:3000]
+	(GRAZER:3000)
+	[GRAZER:4384]	changed by Igfig
 	[VISION_ARC:50:310]
 	[PREFSTRING:grace]
 	[GRASSTRAMPLE:0]
@@ -2044,9 +2047,7 @@ creature_large_tropical
 	[CREATURE_TILE:'C'][COLOR:6:0:0]
 	[PETVALUE:500]
 	[PET]
-	[VISION_ARC:50:310]
-	[GRAZER:120]
-	[PACK_ANIMAL]
+	[VISION_ARC:50:310]	[GRAZER:333]	changed by Igfig	[PACK_ANIMAL]
 	[MOUNT]
 	[PREFSTRING:hump]
 	[GRASSTRAMPLE:0]
@@ -2159,9 +2160,7 @@ creature_large_tropical
 	[CREATURE_TILE:'C'][COLOR:6:0:0]
 	[PETVALUE:500]
 	[PET]
-	[VISION_ARC:50:310]
-	[GRAZER:120]
-	[PACK_ANIMAL]
+	[VISION_ARC:50:310]	[GRAZER:333]	changed by Igfig	[PACK_ANIMAL]
 	[MOUNT]
 	[PREFSTRING:humps]
 	[GRASSTRAMPLE:0]
@@ -2274,7 +2273,7 @@ creature_large_tropical
 	[CREATURE_TILE:'C'][COLOR:2:0:0]
 	[PETVALUE:700]
 	[PET_EXOTIC]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[AMPHIBIOUS]
 	[BIOME:SWAMP_TROPICAL_FRESHWATER]
 	[BIOME:MARSH_TROPICAL_FRESHWATER]
@@ -2356,7 +2355,7 @@ creature_large_tropical
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:100]
-			[CLUTCH_SIZE:20:70]
+			[CLUTCH_SIZE:4:8]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2459,7 +2458,7 @@ creature_large_tropical
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:60]
-			[CLUTCH_SIZE:1:3]
+			[CLUTCH_SIZE:1:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2482,7 +2481,8 @@ creature_large_tropical
 	[PETVALUE:500]
 	[PET_EXOTIC]
 	[MOUNT_EXOTIC]
-	[GRAZER:20]
+	(GRAZER:20)
+	[GRAZER:79]	changed by Igfig
 	[VISION_ARC:50:310]
 	[TRAINABLE]
 	[LARGE_ROAMING]
@@ -2567,7 +2567,8 @@ creature_large_tropical
 	[PETVALUE:500]
 	[PET_EXOTIC]
 	[MOUNT_EXOTIC]
-	[GRAZER:60] no tree browsing yet
+	(GRAZER:60) no tree browsing yet
+	[GRAZER:191]	changed by Igfig
 	[VISION_ARC:50:310]
 	[TRAINABLE]
 	[LARGE_ROAMING]
@@ -2830,7 +2831,7 @@ Giant tortoises were sponsored by the generous contributions of the Bay 12 commu
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:82]
-			[CLUTCH_SIZE:5:10] 10-25?  large numbers not supported
+			[CLUTCH_SIZE:2:3] 10-25?  large numbers not supported	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 		[BODY_SIZE:0:0:80]

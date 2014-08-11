@@ -99,7 +99,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:21]
-			[CLUTCH_SIZE:4:6]
+			[CLUTCH_SIZE:2:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -159,7 +159,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:intelligence]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -268,7 +268,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:52]
-			[CLUTCH_SIZE:3:7]
+			[CLUTCH_SIZE:2:3]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -328,7 +328,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:intelligence]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -423,7 +423,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:550]
-			[CLUTCH_SIZE:3:6]
+			[CLUTCH_SIZE:2:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -584,7 +584,7 @@ Kea were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:62]
-			[CLUTCH_SIZE:2:5]
+			[CLUTCH_SIZE:1:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -645,7 +645,7 @@ Kea were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:2:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:curiosity]
 	[PREFSTRING:intelligence]
@@ -749,7 +749,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:62]
-			[CLUTCH_SIZE:5:10] 5 to 14
+			[CLUTCH_SIZE:2:3] 5 to 14	changed by Igfig
 		[SET_TL_GROUP:BY_CATEGORY:ALL:FEATHER]
 			[TL_COLOR_MODIFIER:SPOTS_WHITE_BLACK:1]
 				[TLCM_NOUN:feathers:PLURAL]
@@ -811,7 +811,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:yellow eyes]
 	[PREFSTRING:coloration]
@@ -919,7 +919,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:3]
-			[CLUTCH_SIZE:2:7]
+			[CLUTCH_SIZE:1:3]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -979,7 +979,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:lovely songs]
 	[PREFSTRING:dust baths]
@@ -1069,7 +1069,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:110]
-			[CLUTCH_SIZE:1:7]
+			[CLUTCH_SIZE:1:3]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1128,7 +1128,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:long necks]
 	[PREFSTRING:long legs]
@@ -1219,7 +1219,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:152]
-			[CLUTCH_SIZE:2:4]
+			[CLUTCH_SIZE:1:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1278,7 +1278,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:haunting call]
 	[PREFSTRING:coloration]
@@ -1387,7 +1387,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:32] no solid number here
-			[CLUTCH_SIZE:3:6]
+			[CLUTCH_SIZE:2:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1446,7 +1446,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -1550,7 +1550,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:11]
-			[CLUTCH_SIZE:2:4]
+			[CLUTCH_SIZE:1:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1610,7 +1610,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:2:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[PREFSTRING:ability to speak]
@@ -1699,7 +1699,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:52] couldn't find this
-			[CLUTCH_SIZE:1:4]
+			[CLUTCH_SIZE:1:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 		[SOUND:PEACEFUL_INTERMITTENT:200:1000:VOCALIZATION:boom:booms:a low boom]
@@ -1848,7 +1848,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:40] no data
-			[CLUTCH_SIZE:1:5]
+			[CLUTCH_SIZE:1:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1907,7 +1907,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:intelligence]
 	[PREFSTRING:social nature]
@@ -1993,7 +1993,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:30] no data
-			[CLUTCH_SIZE:1:1]
+			[CLUTCH_SIZE:1:1]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2052,7 +2052,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:colorful beaks]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -2137,7 +2137,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:340]
-			[CLUTCH_SIZE:5:7]
+			[CLUTCH_SIZE:2:3]	changed by Igfig
 	[CASTE:MALE]
 		[CASTE_NAME:cob swan:cob swans:cob swan]
 		[MALE]
@@ -2197,7 +2197,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:beauty]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -2297,7 +2297,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:11] no data
-			[CLUTCH_SIZE:2:2]
+			[CLUTCH_SIZE:1:1]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2357,7 +2357,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:4:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:bright coloration]
 	[PREFSTRING:playful personalities]
@@ -2462,7 +2462,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:5]
-			[CLUTCH_SIZE:3:10]
+			[CLUTCH_SIZE:2:3]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2522,7 +2522,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:intricate songs]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -2629,7 +2629,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:60]
-			[CLUTCH_SIZE:2:4]
+			[CLUTCH_SIZE:1:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2688,7 +2688,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:fishing ability]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -2785,7 +2785,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:805]
-			[CLUTCH_SIZE:5:15]
+			[CLUTCH_SIZE:2:4]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -2943,7 +2943,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:11]
-			[CLUTCH_SIZE:2:8]
+			[CLUTCH_SIZE:1:3]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3003,7 +3003,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:crests]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -3103,7 +3103,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:9]
-			[CLUTCH_SIZE:4:6]
+			[CLUTCH_SIZE:2:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3163,7 +3163,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 	[COLOR:2:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:loving nature]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -3265,7 +3265,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:11]
-			[CLUTCH_SIZE:2:5]
+			[CLUTCH_SIZE:1:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3325,7 +3325,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:intelligence]
 	[PREFSTRING:fondness of shiny objects]
@@ -3432,7 +3432,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:32]
-			[CLUTCH_SIZE:3:6]
+			[CLUTCH_SIZE:2:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3491,7 +3491,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:4:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[PREFSTRING:hunting prowess]
@@ -3577,7 +3577,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:305]
-			[CLUTCH_SIZE:1:1]
+			[CLUTCH_SIZE:1:1]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3636,7 +3636,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:large wings]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -3746,7 +3746,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:51]
-			[CLUTCH_SIZE:1:5]
+			[CLUTCH_SIZE:1:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3805,7 +3805,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:piercing yellow eyes]
 	[PREFSTRING:ear tufts]
@@ -3914,7 +3914,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:142]
-			[CLUTCH_SIZE:1:3]
+			[CLUTCH_SIZE:1:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -3973,7 +3973,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:high soaring]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -4073,7 +4073,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:50]
-			[CLUTCH_SIZE:1:4]
+			[CLUTCH_SIZE:1:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -4132,7 +4132,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:great bills]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -4231,7 +4231,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:7]
-			[CLUTCH_SIZE:4:5]
+			[CLUTCH_SIZE:2:2]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -4291,7 +4291,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 	[COLOR:2:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:loving nature]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:691:482:251:1900:2900] 35 kph
@@ -4389,7 +4389,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:1]
-			[CLUTCH_SIZE:5:13]
+			[CLUTCH_SIZE:2:4]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -4449,7 +4449,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC) removed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:somewhat great size]
 	[PREFSTRING:twittering groups]

@@ -350,7 +350,8 @@ Kangaroos were sponsored by the generous contributions of the Bay 12 community.
 	[PREFSTRING:great leaps]
 	[LARGE_ROAMING]
 	[BENIGN][MEANDERER][PET_EXOTIC]
-	[GRAZER:667]
+	(GRAZER:667)
+	[GRAZER:1316]	changed by Igfig
 	[BODY:HUMANOID_NECK:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:MOUTH:GENERIC_TEETH:RIBCAGE]
 	[NATURAL]
 	[BODY_DETAIL_PLAN:STANDARD_MATERIALS]
@@ -496,6 +497,7 @@ Kangaroos were sponsored by the generous contributions of the Bay 12 community.
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
+	[GRAZER:216]	changed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:pouches]
 	[PREFSTRING:great leaps]
@@ -662,6 +664,7 @@ Adders were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A small snake with ridged scales and a powerful venomous bite.]
 	[NAME:adder:adders:adder]
 	[CASTE_NAME:adder:adders:adder]
+	[CHILD:1][GENERAL_CHILD_NAME:adder hatchling:adder hatchlings]	added by Igfig
 	[CREATURE_TILE:'a'][COLOR:6:0:0]
 	[PETVALUE:50]
 	[PET_EXOTIC]
@@ -752,7 +755,7 @@ Adders were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:16]
-			[CLUTCH_SIZE:3:10] 3 to 20
+			[CLUTCH_SIZE:2:3] 3 to 20	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -835,6 +838,7 @@ Adders were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:giant adder:giant adders:giant adder]
 	[CASTE_NAME:giant adder:giant adders:giant adder]
 	[DESCRIPTION:A large monster in the form of an adder.]
+	[GENERAL_CHILD_NAME:giant adder hatchling:giant adder hatchlings]	added by Igfig
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'A']
@@ -938,7 +942,7 @@ Echidnas were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:1]
-			[CLUTCH_SIZE:1:1]
+			[CLUTCH_SIZE:1:1]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1175,6 +1179,7 @@ Kingsnakes were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A tiny, brightly-colored snake.  It is known for eating other snakes and being mistaken for its poisonous cousins.]
 	[NAME:kingsnake:kingsnakes:kingsnake]
 	[CASTE_NAME:kingsnake:kingsnakes:kingsnake]
+	[CHILD:2][GENERAL_CHILD_NAME:kingsnake hatchling:kingsnake hatchlings]	added by Igfig
 	[CREATURE_TILE:'k'][COLOR:7:0:1]
 	[PETVALUE:50]
 	[PET_EXOTIC]
@@ -1246,7 +1251,7 @@ Kingsnakes were sponsored by the generous contributions of the Bay 12 community.
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_WHITE:LIQUID]
 			[EGG_MATERIAL:LOCAL_CREATURE_MAT:EGG_YOLK:LIQUID]
 			[EGG_SIZE:20] no info
-			[CLUTCH_SIZE:5:12]
+			[CLUTCH_SIZE:2:3]	changed by Igfig
 	[CASTE:MALE]
 		[MALE]
 	[SELECT_CASTE:ALL]
@@ -1293,6 +1298,7 @@ Kingsnakes were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:giant kingsnake:giant kingsnakes:giant kingsnake]
 	[CASTE_NAME:giant kingsnake:giant kingsnakes:giant kingsnake]
 	[DESCRIPTION:A large monster in the form of a kingsnake.]
+	[GENERAL_CHILD_NAME:giant kingsnake hatchling:giant kingsnake hatchlings]	added by Igfig
 	[POPULATION_NUMBER:10:25]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'K']
@@ -1902,7 +1908,8 @@ Hares were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'h'][COLOR:6:0:0]
 	[PETVALUE:10]
 	[PET_EXOTIC]
-	[GRAZER:17143]
+	(GRAZER:17143)
+	[GRAZER:17679]	changed by Igfig
 	[VISION_ARC:50:310]
 	[NATURAL]
 	[BIOME:SAVANNA_TEMPERATE]
@@ -2039,6 +2046,7 @@ Hares were sponsored by the generous contributions of the Bay 12 community.
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
+	[GRAZER:633]	changed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:long ears]
 	[PREFSTRING:fluffy tails]
@@ -2052,6 +2060,7 @@ Rattlesnakes were sponsored by the generous contributions of the Bay 12 communit
 	[DESCRIPTION:A small reptile with a tell-tale rattle and vicious bite that leads to a quick death.]
 	[NAME:rattlesnake:rattlesnakes:rattlesnake]
 	[CASTE_NAME:rattlesnake:rattlesnakes:rattlesnake]
+	[CHILD:3][GENERAL_CHILD_NAME:rattlesnake hatchling:rattlesnake hatchlings]	added by Igfig
 	[CREATURE_TILE:'s'][COLOR:7:0:0]
 	[PETVALUE:20]
 	[PET_EXOTIC]
@@ -2218,6 +2227,7 @@ Rattlesnakes were sponsored by the generous contributions of the Bay 12 communit
 	[NAME:giant rattlesnake:giant rattlesnakes:giant rattlesnake]
 	[CASTE_NAME:giant rattlesnake:giant rattlesnakes:giant rattlesnake]
 	[DESCRIPTION:A huge monster taking the shape of a rattlesnake.]
+	[GENERAL_CHILD_NAME:giant rattlesnake hatchling:giant rattlesnake hatchlings]	added by Igfig
 	[POPULATION_NUMBER:10:25]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
@@ -2390,6 +2400,7 @@ Copperhead snakes were sponsored by the generous contributions of the Bay 12 com
 	[DESCRIPTION:A tiny venomous snake found in the woods and swamps.]
 	[NAME:copperhead snake:copperhead snakes:copperhead snake]
 	[CASTE_NAME:copperhead snake:copperhead snakes:copperhead snake]
+	[CHILD:2][GENERAL_CHILD_NAME:copperhead hatchling:copperhead hatchlings]	added by Igfig
 	[CREATURE_TILE:'s'][COLOR:6:0:0]
 	[PETVALUE:50]
 	[PET_EXOTIC]
@@ -2552,6 +2563,7 @@ Copperhead snakes were sponsored by the generous contributions of the Bay 12 com
 	[NAME:giant copperhead snake:giant copperhead snakes:giant copperhead snake]
 	[CASTE_NAME:giant copperhead snake:giant copperhead snakes:giant copperhead snake]
 	[DESCRIPTION:A huge monster in the form of a copperhead snake.]
+	[GENERAL_CHILD_NAME:giant copperhead hatchling:giant copperhead hatchlings]	added by Igfig
 	[POPULATION_NUMBER:10:25]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
@@ -2586,7 +2598,8 @@ Ibexes were sponsored by the generous contributions of the Bay 12 community.
 	[BENIGN][MEANDERER]
 	[PETVALUE:50]
 	[PET]
-	[GRAZER:1200]
+	(GRAZER:1200)
+	[GRAZER:2106]	changed by Igfig
 	[BODY:QUADRUPED_NECK_HOOF:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:2HEAD_HORN:MOUTH:GENERIC_TEETH:RIBCAGE]
 	[NATURAL]
 	[BODY_DETAIL_PLAN:STANDARD_MATERIALS]
@@ -2716,6 +2729,7 @@ Ibexes were sponsored by the generous contributions of the Bay 12 community.
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
+	[GRAZER:304]	changed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:long horns]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:585:390:195:1900:2900] 45 kph
@@ -2734,7 +2748,8 @@ Wombats were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'w'][COLOR:6:0:0]
 	[PETVALUE:50]
 	[PET_EXOTIC]
-	[GRAZER:2308]
+	(GRAZER:2308)
+	[GRAZER:3667]	changed by Igfig
 	[NATURAL]
 	[BIOME:ANY_TEMPERATE_FOREST]
 	[BIOME:SHRUBLAND_TEMPERATE]
@@ -2868,6 +2883,7 @@ Wombats were sponsored by the generous contributions of the Bay 12 community.
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
+	[GRAZER:417]	changed by Igfig
 	[GO_TO_END]
 	[PREFSTRING:waddle]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:657:438:219:1900:2900] 40 kph
