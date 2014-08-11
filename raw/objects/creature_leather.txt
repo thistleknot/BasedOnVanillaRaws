@@ -1,0 +1,11 @@
+creature_leather
+
+[OBJECT:CREATURE]
+
+// fake creature for leather
+[CREATURE:ANIMAL_LEATHER]
+   [NAME:::]
+   [USE_MATERIAL_TEMPLATE:LEATHER:LEATHER_TEMPLATE]
+   [SELECT_MATERIAL:ALL]
+        [ARENA_RESTRICTED]
+        [DOES_NOT_EXIST]
