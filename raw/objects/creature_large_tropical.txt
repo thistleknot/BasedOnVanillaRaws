@@ -605,6 +605,8 @@ creature_large_tropical
 	[SAVAGE]
 	[GRASSTRAMPLE:0]
 	[PREFSTRING:stripes, of course]
+	[GO_TO_TAG:USE_TISSUE_TEMPLATE:CLAW:CLAW_TEMPLATE]
+	[TISSUE_LAYER:BY_CATEGORY:FINGER:CLAW:FRONT]
 
 [CREATURE:CHEETAH]
 	[DESCRIPTION:A large spotted feline predator.  It is capable of incredible speed when ambushing its prey.]
