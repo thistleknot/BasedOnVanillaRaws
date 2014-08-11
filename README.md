@@ -1,8 +1,6 @@
 BasedOnVanillaRaws
 ==================
 
-TLDR?
-
 Download link up to date with this post:
 
 	https://github.com/thistleknot/BasedOnVanillaRaws/archive/407bd542f40e96ca540fd0e898cdfcfbc8845feb.zip
