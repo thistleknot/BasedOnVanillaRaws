@@ -9,6 +9,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	In Memory of Half-Beak
 
 [CREATURE:BIRD_CROW]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small black bird that feeds on carrion.  It is social, very intelligent and knows how to use tools.]
 	[NAME:crow:crows:crow]
 	[CASTE_NAME:crow:crows:crow]
@@ -114,6 +115,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CROW_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_CROW]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -141,6 +143,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_CROW]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_CROW]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -175,6 +178,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	Thes33 - "Neverdwarf."
 
 [CREATURE:BIRD_RAVEN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, foreboding black bird that feeds on carrion.  It is social, very intelligent, and knows how to use tools.]
 	[NAME:raven:ravens:raven]
 	[CASTE_NAME:raven:ravens:raven]
@@ -283,6 +287,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:RAVEN_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_RAVEN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -310,6 +315,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_RAVEN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_RAVEN]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -343,6 +349,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 	culling66
 
 [CREATURE:BIRD_CASSOWARY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, flightless, brightly-colored bird.]
 	[NAME:cassowary:cassowaries:cassowary]
 	[CASTE_NAME:cassowary:cassowaries:cassowary]
@@ -438,6 +445,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CASSOWARY_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_CASSOWARY]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -464,6 +472,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_CASSOWARY]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_CASSOWARY]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -491,6 +500,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 Kea were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_KEA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, green, intelligent mountain parrot.]
 	[NAME:kea:kea:kea]
 	[CASTE_NAME:kea:kea:kea]
@@ -600,6 +610,7 @@ Kea were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KEA_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_KEA]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -627,6 +638,7 @@ Kea were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:2:0:0]
 
 [CREATURE:GIANT_KEA]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_KEA]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -661,6 +673,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	Errol
 
 [CREATURE:BIRD_OWL_SNOWY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small white bird that hunts in the coldest reaches of the world.]
 	[NAME:snowy owl:snowy owls:snowy owl]
 	[CASTE_NAME:snowy owl:snowy owls:snowy owl]
@@ -767,6 +780,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SNOWY_OWL_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_OWL_SNOWY]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -794,6 +808,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 
 [CREATURE:GIANT_SNOWY_OWL]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_OWL_SNOWY]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -827,6 +842,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	spuggie
 
 [CREATURE:SPARROW]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny brown bird that can be found in most temperate regions.]
 	[NAME:sparrow:sparrows:sparrow]
 	[CASTE_NAME:sparrow:sparrows:sparrow]
@@ -934,6 +950,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SPARROW_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SPARROW]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -961,6 +978,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_SPARROW]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SPARROW]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -995,6 +1013,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 	"From Alsace, with love."
 
 [CREATURE:BIRD_STORK_WHITE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small bird with long legs and bill, and a extremely long wingspan.]
 	[NAME:white stork:white storks:white stork]
 	[CASTE_NAME:white stork:white storks:white stork]
@@ -1084,6 +1103,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:WHITE_STORK_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_STORK_WHITE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1110,6 +1130,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 
 [CREATURE:GIANT_WHITE_STORK]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_STORK_WHITE]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1145,6 +1166,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	Sponsored by Klokwurk. You can't get better than awesome!
 
 [CREATURE:BIRD_LOON]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small water bird found in remote lakes.  It is known for its haunting call.]
 	[NAME:loon:loons:loon]
 	[CASTE_NAME:loon:loons:loon]
@@ -1234,6 +1256,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:LOON_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_LOON]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1260,6 +1283,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_LOON]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_LOON]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1293,6 +1317,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	Glaucus - "Only when the dusk starts to fall does the owl of Minerva spread its wings and fly."
 
 [CREATURE:BIRD_OWL_BARN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, nocturnal bird of prey found in woodland regions.  Its hunger for rodents drives it to take residence in buildings.]
 	[NAME:barn owl:barn owls:barn owl]
 	[CASTE_NAME:barn owl:barn owls:barn owl]
@@ -1402,6 +1427,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BARN_OWL_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_OWL_BARN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1429,6 +1455,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_BARN_OWL]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_OWL_BARN]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1461,6 +1488,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 	Spinner
 
 [CREATURE:BIRD_PARAKEET]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny parrot found in flocks of many hundreds.  Exceptional birds can be taught to speak.]
 	[NAME:parakeet:parakeets:parakeet]
 	[CASTE_NAME:parakeet:parakeets:parakeet]
@@ -1565,6 +1593,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:PARAKEET_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_PARAKEET]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1592,6 +1621,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:2:0:1]
 
 [CREATURE:GIANT_PARAKEET]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_PARAKEET]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1625,6 +1655,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 	You've just been shagged by a rare parrot!
 
 [CREATURE:BIRD_KAKAPO]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small flightless green parrot.  It is nocturnal and counts itself among the longest-lived birds.]
 	[NAME:kakapo:kakapo:kakapo]
 	[CASTE_NAME:kakapo:kakapo:kakapo]
@@ -1716,6 +1747,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KAKAPO_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_KAKAPO]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1741,6 +1773,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:2:0:0]
 
 [CREATURE:GIANT_KAKAPO]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_KAKAPO]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1774,6 +1807,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 	Rainseeker's bird Maggie
 
 [CREATURE:BIRD_PARROT_GREY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:The most intelligent of birds.  It can be found in the rainforest.]
 	[NAME:grey parrot:grey parrots:grey parrot]
 	[CASTE_NAME:grey parrot:grey parrots:grey parrot]
@@ -1863,6 +1897,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GREY_PARROT_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_PARROT_GREY]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1889,6 +1924,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 	[COLOR:7:0:0]
 
 [CREATURE:GIANT_GREY_PARROT]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_PARROT_GREY]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1922,6 +1958,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 	Sponsored on behalf of Ekaterina Puffini
 
 [CREATURE:BIRD_PUFFIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny diving bird found living on seaside cliffs in the colder climates.]
 	[NAME:puffin:puffins:puffin]
 	[CASTE_NAME:puffin:puffins:puffin]
@@ -2008,6 +2045,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:PUFFIN_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_PUFFIN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -2034,6 +2072,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_PUFFIN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_PUFFIN]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -2065,6 +2104,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 	IL
 
 [CREATURE:BIRD_SWAN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small aquatic bird, prized for its beauty.]
 	[NAME:swan:swans:swan]
 	[CHILD:1][GENERAL_CHILD_NAME:cygnet:cygnets]
@@ -2153,6 +2193,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SWAN_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_SWAN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -2179,6 +2220,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 
 [CREATURE:GIANT_SWAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_SWAN]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -2210,6 +2252,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 	Kishmond - For Kiku
 
 [CREATURE:BIRD_LORIKEET]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny, brightly-colored tree parrot.  It uses its tongue to feed on plants.]
 	[NAME:lorikeet:lorikeets:lorikeet]
 	[CASTE_NAME:lorikeet:lorikeets:lorikeet]
@@ -2312,6 +2355,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:LORIKEET_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_LORIKEET]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -2339,6 +2383,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:4:0:1]
 
 [CREATURE:GIANT_LORIKEET]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_LORIKEET]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -2372,6 +2417,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 	St. Stephen
 
 [CREATURE:BIRD_WREN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny brown bird given to singing complex songs.]
 	[NAME:wren:wrens:wren]
 	[CASTE_NAME:wren:wrens:wren]
@@ -2477,6 +2523,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:WREN_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_WREN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -2504,6 +2551,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_WREN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_WREN]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -2536,6 +2584,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 	Saga Stigsdotter
 
 [CREATURE:BIRD_OSPREY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small bird of prey with black markings on its eyes.  It hunts near bodies of water.]
 	[NAME:osprey:ospreys:osprey]
 	[CASTE_NAME:osprey:ospreys:osprey]
@@ -2644,6 +2693,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:OSPREY_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_OSPREY]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -2671,6 +2721,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 
 [CREATURE:GIANT_OSPREY]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_OSPREY]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -2702,6 +2753,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 	Pangaron
 
 [CREATURE:BIRD_EMU]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large flightless bird.  It is very curious and has been known to follow other creatures.]
 	[NAME:emu:emus:emu]
 	[CASTE_NAME:emu:emus:emu]
@@ -2800,6 +2852,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:EMU_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_EMU]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -2826,6 +2879,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_EMU]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_EMU]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -2857,6 +2911,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 	To Beth, from Andy
 
 [CREATURE:BIRD_COCKATIEL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny crested parrot.  They are prized as domestic companions.]
 	[NAME:cockatiel:cockatiels:cockatiel]
 	[CASTE_NAME:cockatiel:cockatiels:cockatiel]
@@ -2958,6 +3013,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:COCKATIEL_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_COCKATIEL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -2985,6 +3041,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 
 [CREATURE:GIANT_COCKATIEL]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_COCKATIEL]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -3015,6 +3072,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_LOVEBIRD_PEACH-FACED]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny, brightly colored parrot.  They are clever and learn many tricks.]
 	[NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird]
 	[CASTE_NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird]
@@ -3118,6 +3176,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:PEACH-FACED_LOVEBIRD_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_LOVEBIRD_PEACH-FACED]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -3145,6 +3204,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 	[COLOR:2:0:1]
 
 [CREATURE:GIANT_PEACH-FACED_LOVEBIRD]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_LOVEBIRD_PEACH-FACED]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -3177,6 +3237,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 	harakka
 
 [CREATURE:BIRD_MAGPIE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny black and white bird.  It is one of the most intelligent of the natural creatures.]
 	[NAME:magpie:magpies:magpie]
 	[CASTE_NAME:magpie:magpies:magpie]
@@ -3280,6 +3341,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MAGPIE_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_MAGPIE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -3307,6 +3369,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_MAGPIE]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_MAGPIE]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -3338,6 +3401,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 Kestrels were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_KESTREL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny bird of prey.  It hovers above the ground and swoops down to snatch rodents and mice.]
 	[NAME:kestrel:kestrels:kestrel]
 	[CASTE_NAME:kestrel:kestrels:kestrel]
@@ -3447,6 +3511,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KESTREL_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_KESTREL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -3474,6 +3539,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:4:0:0]
 
 [CREATURE:GIANT_KESTREL]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_KESTREL]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -3504,6 +3570,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 Albatrosses were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_ALBATROSS]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small sea bird with great wings.  It soars through the sky and dives for food on the surface of the water.]
 	[NAME:albatross:albatrosses:albatross]
 	[CASTE_NAME:albatross:albatrosses:albatross]
@@ -3592,6 +3659,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ALBATROSS_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_ALBATROSS]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -3618,6 +3686,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 	[COLOR:7:0:1]
 
 [CREATURE:GIANT_ALBATROSS]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_ALBATROSS]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -3650,6 +3719,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 	The Eyes of Profit
 
 [CREATURE:BIRD_OWL_GREAT_HORNED]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, nocturnal bird of prey with large eyes and protruding feathers.]
 	[NAME:great horned owl:great horned owls:great horned owl]
 	[CASTE_NAME:great horned owl:great horned owls:great horned owl]
@@ -3761,6 +3831,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GREAT_HORNED_OWL_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_OWL_GREAT_HORNED]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -3788,6 +3859,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 	[COLOR:7:0:0]
 
 [CREATURE:GIANT_GREAT_HORNED_OWL]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_OWL_GREAT_HORNED]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -3820,6 +3892,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 	Gfamad
 
 [CREATURE:BIRD_EAGLE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small bird of prey.]
 	[NAME:eagle:eagles:eagle]
 	[CASTE_NAME:eagle:eagles:eagle]
@@ -3929,6 +4002,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:EAGLE_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_EAGLE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -3956,6 +4030,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_EAGLE]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_EAGLE]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -3987,6 +4062,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 	Sponsored by Hornbill Interactive – Jim Regan / balrogkernel
 
 [CREATURE:BIRD_HORNBILL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny bird with a large, brightly-colored bill.]
 	[NAME:hornbill:hornbills:hornbill]
 	[CASTE_NAME:hornbill:hornbills:hornbill]
@@ -4088,6 +4164,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:HORNBILL_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_HORNBILL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -4115,6 +4192,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_HORNBILL]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_HORNBILL]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -4146,6 +4224,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 	From Jake, for my lovebird Heather.
 
 [CREATURE:BIRD_LOVEBIRD_MASKED]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny, colorful bird.  It can be trained to be a pleasant companion.]
 	[NAME:masked lovebird:masked lovebirds:masked lovebird]
 	[CASTE_NAME:masked lovebird:masked lovebirds:masked lovebird]
@@ -4246,6 +4325,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MASKED_LOVEBIRD_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_LOVEBIRD_MASKED]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -4273,6 +4353,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 	[COLOR:2:0:1]
 
 [CREATURE:GIANT_MASKED_LOVEBIRD]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_LOVEBIRD_MASKED]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -4303,6 +4384,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 Bushtits were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_BUSHTIT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny brown bird found in open woodlands.]
 	[NAME:bushtit:bushtits:bushtit]
 	[CASTE_NAME:bushtit:bushtits:bushtit]
@@ -4404,6 +4486,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BUSHTIT_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_BUSHTIT]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -4431,6 +4514,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_BUSHTIT]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_BUSHTIT]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]

@@ -9,6 +9,7 @@ Mongooses were sponsored by the generous contributions of the Bay 12 community.
 	DevHyfes - Should this journey lead to death, we ride together!
 
 [CREATURE:MONGOOSE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A very small mammal with short legs and a long tail.  It hunts small animals to eat.]
 	[NAME:mongoose:mongooses:mongoose]
 	[CASTE_NAME:mongoose:mongooses:mongoose]
@@ -101,6 +102,7 @@ Mongooses were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MONGOOSE_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MONGOOSE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -129,6 +131,7 @@ Mongooses were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_MONGOOSE]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MONGOOSE]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -160,6 +163,7 @@ Hyenas were sponsored by the generous contributions of the Bay 12 community.
 	Cruxador
 
 [CREATURE:HYENA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized pack predator found in the savanna.]
 	[NAME:hyena:hyenas:hyena]
 	[CASTE_NAME:hyena:hyenas:hyena]
@@ -255,6 +259,7 @@ Hyenas were sponsored by the generous contributions of the Bay 12 community.
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:HYENA_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:HYENA]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -283,6 +288,7 @@ Hyenas were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_HYENA]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:HYENA]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -314,6 +320,7 @@ Anacondas were sponsored by the generous contributions of the Bay 12 community.
 	Jayson French - "May these creatures be blessed with the alacrity and lethality of the mighty carp."
 
 [CREATURE:ANACONDA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized snake that lives in the trees.  It eats prey much larger than itself and slays them by crushing them to death.]
 	[NAME:anaconda:anacondas:anaconda]
 	[CASTE_NAME:anaconda:anacondas:anaconda]
@@ -393,6 +400,7 @@ Anacondas were sponsored by the generous contributions of the Bay 12 community.
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:ANACONDA_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:ANACONDA]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS]
 	[GO_TO_END]
@@ -417,6 +425,7 @@ Anacondas were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:2:0:1]
 
 [CREATURE:GIANT_ANACONDA]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:ANACONDA]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -448,6 +457,7 @@ Monitor lizards were sponsored by the generous contributions of the Bay 12 commu
 	Hi, Zari
 
 [CREATURE:MONITOR_LIZARD]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized reptile.  They can be found foraging for food such as eggs or worms.  They are said to be the most intelligent of their kind.]
 	[NAME:monitor lizard:monitor lizards:monitor lizard]
 	[CASTE_NAME:monitor lizard:monitor lizards:monitor lizard]
@@ -541,6 +551,7 @@ Monitor lizards were sponsored by the generous contributions of the Bay 12 commu
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:MONITOR_LIZARD_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MONITOR_LIZARD]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -569,6 +580,7 @@ Monitor lizards were sponsored by the generous contributions of the Bay 12 commu
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:CLAW:FRONT]
 
 [CREATURE:GIANT_MONITOR_LIZARD]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MONITOR_LIZARD]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -599,6 +611,7 @@ King cobras were sponsored by the generous contributions of the Bay 12 community
 	Sponsored by cosh - <3 DF
 
 [CREATURE:KING_COBRA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small limbless reptile known for its deadly venom and the warning of its hood.]
 	[NAME:king cobra:king cobras:king cobra]
 	[CASTE_NAME:king cobra:king cobras:king cobra]
@@ -703,6 +716,7 @@ King cobras were sponsored by the generous contributions of the Bay 12 community
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:KING_COBRA_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:KING_COBRA]
 	[CV_CONVERT_TAG]
 		[CVCT_MASTER:STATE_NAME]
@@ -744,6 +758,7 @@ King cobras were sponsored by the generous contributions of the Bay 12 community
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_KING_COBRA]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:KING_COBRA]
 	[CV_CONVERT_TAG]
 		[CVCT_MASTER:STATE_NAME]
@@ -791,6 +806,7 @@ Ocelots were sponsored by the generous contributions of the Bay 12 community.
 	Stephmo
 
 [CREATURE:OCELOT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small cat-like creature found in the jungle.]
 	[NAME:ocelot:ocelots:ocelot]
 	[CASTE_NAME:ocelot:ocelots:ocelot]
@@ -886,6 +902,7 @@ Ocelots were sponsored by the generous contributions of the Bay 12 community.
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:OCELOT_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:OCELOT]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -914,6 +931,7 @@ Ocelots were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:CLAW:FRONT]
 
 [CREATURE:GIANT_OCELOT]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:OCELOT]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -945,6 +963,7 @@ Jackals were sponsored by the generous contributions of the Bay 12 community.
 	Cruxador
 
 [CREATURE:JACKAL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small wolf-like scavenger.  Normally found in pairs, jackals can form packs when they find a body.]
 	[NAME:jackal:jackals:jackal]
 	[CASTE_NAME:jackal:jackals:jackal]
@@ -1037,6 +1056,7 @@ Jackals were sponsored by the generous contributions of the Bay 12 community.
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:JACKAL_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:JACKAL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1065,6 +1085,7 @@ Jackals were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_JACKAL]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:JACKAL]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1095,6 +1116,7 @@ Capuchins were sponsored by the generous contributions of the Bay 12 community.
 	DoubleDuke
 
 [CREATURE:CAPUCHIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny diurnal monkey.  It spends its time in the trees searching for food.]
 	[NAME:capuchin:capuchins:capuchin]
 	[CASTE_NAME:capuchin:capuchins:capuchin]
@@ -1187,6 +1209,7 @@ Capuchins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CAPUCHIN_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:CAPUCHIN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1215,6 +1238,7 @@ Capuchins were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_CAPUCHIN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:CAPUCHIN]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1244,6 +1268,7 @@ Capuchins were sponsored by the generous contributions of the Bay 12 community.
 Sloths were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:SLOTH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, slow-moving mammal that lives in the trees.]
 	[NAME:sloth:sloths:sloth]
 	[CASTE_NAME:sloth:sloths:sloth]
@@ -1332,6 +1357,7 @@ Sloths were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SLOTH_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SLOTH]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1360,6 +1386,7 @@ Sloths were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_SLOTH]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SLOTH]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1390,6 +1417,7 @@ Spider monkeys were sponsored by the generous contributions of the Bay 12 commun
 	Matt Umbro
 
 [CREATURE:SPIDER_MONKEY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small animal found in the canopy of the jungle.  They have extremely long arms and legs.]
 	[NAME:spider monkey:spider monkeys:spider monkey]
 	[CASTE_NAME:spider monkey:spider monkeys:spider monkey]
@@ -1480,6 +1508,7 @@ Spider monkeys were sponsored by the generous contributions of the Bay 12 commun
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SPIDER_MONKEY_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SPIDER_MONKEY]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1508,6 +1537,7 @@ Spider monkeys were sponsored by the generous contributions of the Bay 12 commun
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_SPIDER_MONKEY]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SPIDER_MONKEY]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1537,6 +1567,7 @@ Spider monkeys were sponsored by the generous contributions of the Bay 12 commun
 Pangolins were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:PANGOLIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small mammal covered in hard scales.  It has a long nose and tongue which it uses to feed.]
 	[NAME:pangolin:pangolins:pangolin]
 	[CASTE_NAME:pangolin:pangolins:pangolin]
@@ -1636,6 +1667,7 @@ Pangolins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:PANGOLIN_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:PANGOLIN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1664,6 +1696,7 @@ Pangolins were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_PANGOLIN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:PANGOLIN]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1692,6 +1725,7 @@ Pangolins were sponsored by the generous contributions of the Bay 12 community.
 Black mambas were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BLACK_MAMBA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small aggressive snake which can move very quickly.  Its venom is deadly.]
 	[NAME:black mamba:black mambas:black mamba]
 	[CASTE_NAME:black mamba:black mambas:black mamba]
@@ -1803,6 +1837,7 @@ Black mambas were sponsored by the generous contributions of the Bay 12 communit
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:BLACK_MAMBA_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BLACK_MAMBA]
 	[CV_CONVERT_TAG]
 		[CVCT_MASTER:STATE_NAME]
@@ -1844,6 +1879,7 @@ Black mambas were sponsored by the generous contributions of the Bay 12 communit
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_BLACK_MAMBA]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BLACK_MAMBA]
 	[CV_CONVERT_TAG]
 		[CVCT_MASTER:STATE_NAME]
@@ -1890,6 +1926,7 @@ Black mambas were sponsored by the generous contributions of the Bay 12 communit
 Sloth bears were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BEAR_SLOTH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized mammal that lives in the trees.  It is known for its easy-going nature.]
 	[NAME:sloth bear:sloth bears:sloth bear]
 	[CASTE_NAME:sloth bear:sloth bears:sloth bear]
@@ -1983,6 +2020,7 @@ Sloth bears were sponsored by the generous contributions of the Bay 12 community
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:SLOTH_BEAR_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BEAR_SLOTH]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -2011,6 +2049,7 @@ Sloth bears were sponsored by the generous contributions of the Bay 12 community
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_SLOTH_BEAR]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BEAR_SLOTH]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -2041,6 +2080,7 @@ Aye-ayes were sponsored by the generous contributions of the Bay 12 community.
 	LASD
 
 [CREATURE:AYE-AYE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, nocturnal, tree-dwelling mammal.  It uses its long fingers to fish out grubs from the wood.]
 	[NAME:aye-aye:aye-ayes:aye-aye]
 	[CASTE_NAME:aye-aye:aye-ayes:aye-aye]
@@ -2130,6 +2170,7 @@ Aye-ayes were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:AYE-AYE_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:AYE-AYE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -2158,6 +2199,7 @@ Aye-ayes were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_AYE-AYE]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:AYE-AYE]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -2191,6 +2233,7 @@ Bushmasters were sponsored by the generous contributions of the Bay 12 community
       HH    \#\
 
 [CREATURE:BUSHMASTER]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny venomous snake.  It is the longest of the pit vipers.]
 	[NAME:bushmaster:bushmasters:bushmaster]
 	[CASTE_NAME:bushmaster:bushmasters:bushmaster]
@@ -2298,6 +2341,7 @@ Bushmasters were sponsored by the generous contributions of the Bay 12 community
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:BUSHMASTER_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BUSHMASTER]
 	[CV_CONVERT_TAG]
 		[CVCT_MASTER:STATE_NAME]
@@ -2339,6 +2383,7 @@ Bushmasters were sponsored by the generous contributions of the Bay 12 community
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_BUSHMASTER]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BUSHMASTER]
 	[CV_CONVERT_TAG]
 		[CVCT_MASTER:STATE_NAME]
@@ -2386,6 +2431,7 @@ Pythons were sponsored by the generous contributions of the Bay 12 community.
 	RusAnon: for the symbol of best programming language
 
 [CREATURE:PYTHON]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small snake found in the trees.  It kills its prey by using its long body to constrict them.]
 	[NAME:python:pythons:python]
 	[CASTE_NAME:python:pythons:python]
@@ -2471,6 +2517,7 @@ Pythons were sponsored by the generous contributions of the Bay 12 community.
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:PYTHON_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:PYTHON]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS]
 	[GO_TO_END]
@@ -2495,6 +2542,7 @@ Pythons were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_PYTHON]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:PYTHON]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -2525,6 +2573,7 @@ Tapirs were sponsored by the generous contributions of the Bay 12 community.
 	Samthere - Release the war tapirs!
 
 [CREATURE:TAPIR]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized mammal with a prehensile nose.  It lives in the tropical rainforest.]
 	[NAME:tapir:tapirs:tapir]
 	[CASTE_NAME:tapir:tapirs:tapir]
@@ -2639,6 +2688,7 @@ Tapirs were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:TAPIR_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:TAPIR]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -2664,6 +2714,7 @@ Tapirs were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 
 [CREATURE:GIANT_TAPIR]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:TAPIR]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -2693,6 +2744,7 @@ Tapirs were sponsored by the generous contributions of the Bay 12 community.
 Impalas were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:IMPALA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, slender gazelle-like creature.]
 	[NAME:impala:impalas:impala]
 	[CASTE_NAME:impala:impalas:impala]
@@ -2790,6 +2842,7 @@ Impalas were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:IMPALA_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:IMPALA]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -2815,6 +2868,7 @@ Impalas were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_IMPALA]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:IMPALA]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -2846,6 +2900,7 @@ Aardvarks were sponsored by the generous contributions of the Bay 12 community.
 	Morty TC
 
 [CREATURE:AARDVARK]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, nocturnal mammal.  It has a long tongue with which to eat insects.]
 	[NAME:aardvark:aardvarks:aardvark]
 	[CASTE_NAME:aardvark:aardvarks:aardvark]
@@ -2939,6 +2994,7 @@ Aardvarks were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:AARDVARK_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:AARDVARK]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -2967,6 +3023,7 @@ Aardvarks were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_AARDVARK]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:AARDVARK]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -2998,6 +3055,7 @@ Lion tamarins were sponsored by the generous contributions of the Bay 12 communi
 	kynalvarus hopes that those reading this will help http://www.savetheliontamarin.org/
 
 [CREATURE:LION_TAMARIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small orange monkey with a long tail.]
 	[NAME:lion tamarin:lion tamarins:lion tamarin]
 	[CASTE_NAME:lion tamarin:lion tamarins:lion tamarin]
@@ -3083,6 +3141,7 @@ Lion tamarins were sponsored by the generous contributions of the Bay 12 communi
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:LION_TAMARIN_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:LION_TAMARIN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -3111,6 +3170,7 @@ Lion tamarins were sponsored by the generous contributions of the Bay 12 communi
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_LION_TAMARIN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:LION_TAMARIN]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]

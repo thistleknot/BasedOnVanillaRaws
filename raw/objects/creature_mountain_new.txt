@@ -8,6 +8,7 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 	Doug Treder and sons
 
 [CREATURE:WOLVERINE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, muscular, weasel-like creature.  It is known for its ferocity.]
 	[NAME:wolverine:wolverines:wolverine]
 	[CASTE_NAME:wolverine:wolverines:wolverine]
@@ -110,6 +111,7 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:WOLVERINE_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:WOLVERINE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -138,6 +140,7 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_WOLVERINE]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:WOLVERINE]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -166,6 +169,7 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 Chinchillas were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:CHINCHILLA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny furry rodent dwelling in the hollow cracks of rocks.  They can be found high in the mountains.]
 	[NAME:chinchilla:chinchillas:chinchilla]
 	[CASTE_NAME:chinchilla:chinchillas:chinchilla]
@@ -254,6 +258,7 @@ Chinchillas were sponsored by the generous contributions of the Bay 12 community
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CHINCHILLA_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:CHINCHILLA]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -282,6 +287,7 @@ Chinchillas were sponsored by the generous contributions of the Bay 12 community
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_CHINCHILLA]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:CHINCHILLA]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]

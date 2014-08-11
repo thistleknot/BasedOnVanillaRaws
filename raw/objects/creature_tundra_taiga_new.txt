@@ -8,6 +8,7 @@ Stoats were sponsored by the generous contributions of the Bay 12 community.
 	Naros - Stoats! The solution to your rabbit and/or cat problems.
 
 [CREATURE:STOAT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small weasel-like creature that hunts rodents and preys on the nests of birds.]
 	[NAME:stoat:stoats:stoat]
 	[GENERAL_CHILD_NAME:stoat kit:stoat kits]
@@ -100,6 +101,7 @@ Stoats were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:STOAT_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:STOAT]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -128,6 +130,7 @@ Stoats were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:GIANT_STOAT]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:STOAT]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -158,6 +161,7 @@ Lynx were sponsored by the generous contributions of the Bay 12 community.
 	When you simply can't have a lobster -- veok, the Lobster Rage Fist
 
 [CREATURE:LYNX]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized mammalian predator.  It is known by the tell-tale tufts of hair on the tips of its ears.]
 	[NAME:lynx:lynx:lynx]
 	[CASTE_NAME:lynx:lynx:lynx]
@@ -250,6 +254,7 @@ Lynx were sponsored by the generous contributions of the Bay 12 community.
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:LYNX_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:LYNX]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -278,6 +283,7 @@ Lynx were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:CLAW:FRONT]
 
 [CREATURE:GIANT_LYNX]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:LYNX]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]

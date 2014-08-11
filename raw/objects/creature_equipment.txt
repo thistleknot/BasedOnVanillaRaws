@@ -3,6 +3,7 @@ creature_equipment
 [OBJECT:CREATURE]
 
 [CREATURE:EQUIPMENT_WAGON]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A rolling platform for carrying passengers or cargo.]
 	[NAME:wagon:wagons:wagon]
 	[CASTE_NAME:wagon:wagons:wagon]

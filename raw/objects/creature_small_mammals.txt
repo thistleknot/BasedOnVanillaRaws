@@ -3,6 +3,7 @@ creature_small_mammals
 [OBJECT:CREATURE]
 
 [CREATURE:RAT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, intelligent vermin with a long naked tail.]
 	[NAME:rat:rats:rat]
 	[CASTE_NAME:rat:rats:rat]
@@ -92,6 +93,7 @@ creature_small_mammals
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SQUIRREL_GRAY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small grey rodent found chirping in the trees of temperate woodlands.]
 	[NAME:gray squirrel:gray squirrels:gray squirrel]
 	[CASTE_NAME:gray squirrel:gray squirrels:gray squirrel]
@@ -176,6 +178,7 @@ creature_small_mammals
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SQUIRREL_RED]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small red rodent found in the trees of temperate woodlands.]
 	[NAME:red squirrel:red squirrels:red squirrel]
 	[CASTE_NAME:red squirrel:red squirrels:red squirrel]
@@ -260,6 +263,7 @@ creature_small_mammals
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CHIPMUNK]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny striped rodent found scurrying through the bushes and trees of the temperate forest.]
 	[NAME:chipmunk:chipmunks:chipmunk]
 	[CASTE_NAME:chipmunk:chipmunks:chipmunk]

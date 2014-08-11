@@ -3,6 +3,7 @@ creature_standard
 [OBJECT:CREATURE]
 
 [CREATURE:DWARF]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A short, sturdy creature fond of drink and industry.]
 	[NAME:dwarf:dwarves:dwarven]
 	[CASTE_NAME:dwarf:dwarves:dwarven]
@@ -440,6 +441,7 @@ creature_standard
 			[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:HUMAN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized creature prone to great ambition.]
 	[NAME:human:humans:human]
 	[CASTE_NAME:human:humans:human]
@@ -707,6 +709,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ELF]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized creature dedicated to the ruthless protection of nature.]
 	[NAME:elf:elves:elven]
 	[CASTE_NAME:elf:elves:elven]
@@ -963,6 +966,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GOBLIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized humanoid driven to cruelty by its evil nature.]
 	[NAME:goblin:goblins:goblin]
 	[CASTE_NAME:goblin:goblins:goblin]
@@ -1215,6 +1219,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KOBOLD]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, squat humanoid with large pointy ears and yellow glowing eyes.]
 	[NAME:kobold:kobolds:kobold]
 	[CASTE_NAME:kobold:kobolds:kobold]
@@ -1440,6 +1445,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GREMLIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small humanoid creature with a mischievous, toothy grin.]
 	[NAME:gremlin:gremlins:gremlin]
 	[CASTE_NAME:gremlin:gremlins:gremlin]
@@ -1623,6 +1629,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:TROLL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A huge humanoid monster with coarse fur, large tusks and horns.]
 	[NAME:troll:trolls:troll]
 	[CASTE_NAME:troll:trolls:troll]
@@ -1824,6 +1831,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:OGRE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A giant humanoid monster found stomping about in the evil plains.  Their low howls can be heard long before they are seen.]
 	[NAME:ogre:ogres:ogre]
 	[CASTE_NAME:ogre:ogres:ogre]
@@ -1997,6 +2005,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:UNICORN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A horse-like creature with a spiral horn growing from its forehead.]
 	[NAME:unicorn:unicorns:unicorn]
 	[CASTE_NAME:unicorn:unicorns:unicorn]
@@ -2107,6 +2116,7 @@ creature_standard
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:DRAGON]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A gigantic reptilian creature.  It is magical and can breathe fire.  These monsters can live for thousands of years.]
 	[NAME:dragon:dragons:draconic]
 	[CASTE_NAME:dragon:dragons:draconic]
@@ -2243,6 +2253,7 @@ creature_standard
 		[MELTING_POINT:10000]
 
 [CREATURE:SATYR]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized humanoid with the horns and legs of a goat.]
 	[NAME:satyr:satyrs:satyr]
 	[CASTE_NAME:satyr:satyrs:satyr]
@@ -2490,6 +2501,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:COLOSSUS_BRONZE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A gigantic magic statue made of bronze and bent on mayhem.]
 	[NAME:bronze colossus:bronze colossuses:bronze colossus]
 	[CASTE_NAME:bronze colossus:bronze colossuses:bronze colossus]
@@ -2558,6 +2570,7 @@ creature_standard
 	[SWIMS_LEARNED]
 
 [CREATURE:GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A gigantic creature resembling a human, almost unparalleled in size.]
 	[NAME:giant:giants:giant]
 	[CREATURE_TILE:'G'][COLOR:3:0:0]
@@ -2797,6 +2810,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CYCLOPS]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A giant humanoid monster with a single eye set in its forehead.]
 	[NAME:cyclops:cyclopes:cyclops]
 	[CASTE_NAME:cyclops:cyclopes:cyclops]
@@ -3031,6 +3045,7 @@ creature_standard
 				[TLCM_NOUN:eye:SINGULAR]
 
 [CREATURE:ETTIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A giant humanoid monster with two heads.]
 	[NAME:ettin:ettins:ettin]
 	[CASTE_NAME:ettin:ettins:ettin]
@@ -3271,6 +3286,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MINOTAUR]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A giant humanoid monster with the head of a bull.]
 	[NAME:minotaur:minotaurs:minotaur]
 	[CASTE_NAME:minotaur:minotaurs:minotaur]
@@ -3443,6 +3459,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:YETI]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large ape-like creature with white fur, found in the snowy wilds.]
 	[NAME:yeti:yetis:yeti]
 	[CASTE_NAME:yeti:yetis:yeti]
@@ -3556,6 +3573,7 @@ creature_standard
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:SASQUATCH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large and mysterious ape-like creature found in temperate forests.]
 	[NAME:sasquatch:sasquatches:sasquatch]
 	[CASTE_NAME:sasquatch:sasquatches:sasquatch]
@@ -3668,6 +3686,7 @@ creature_standard
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:BLIZZARD_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large humanoid monster from the wild tundra.  It has translucent skin, icicles for teeth, red glowing eyes and pointed ears.]
 	[NAME:blizzard man:blizzard men:blizzard man]
 	[CASTE_NAME:blizzard man:blizzard men:blizzard man]
@@ -3752,6 +3771,7 @@ creature_standard
 			[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:WOLF_ICE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A fierce creature from the evil snowy wilds.  It has white fur and a piercing howl.]
 	[NAME:ice wolf:ice wolves:ice wolf]
 	[CASTE_NAME:ice wolf:ice wolves:ice wolf]
@@ -3842,6 +3862,7 @@ creature_standard
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:FAIRY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny, giggling humanoid with lacy wings.]
 	[NAME:fairy:fairies:fairy]
 	[CASTE_NAME:fairy:fairies:fairy]
@@ -4040,6 +4061,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:PIXIE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny winged humanoid with shifting colors which performs intricate aerial dances in large groups.]
 	[NAME:pixie:pixies:pixie]
 	[CASTE_NAME:pixie:pixies:pixie]
@@ -4237,6 +4259,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BEAK_DOG]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A creature from the evil swamp.  It resembles a squat, wingless bird with powerful beak and legs.  Its blotchy skin is brightly colored.]
 	[NAME:beak dog:beak dogs:beak dog]
 	[CASTE_NAME:beak dog:beak dogs:beak dog]
@@ -4337,6 +4360,7 @@ creature_standard
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:GRIMELING]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:An evil monster from the swamp.  It resembles a knot of waterlogged weeds but will strike the unaware victim.]
 	[NAME:grimeling:grimelings:grimeling]
 	[CASTE_NAME:grimeling:grimelings:grimeling]
@@ -4404,6 +4428,7 @@ creature_standard
 	[SWIMS_INNATE]
 
 [CREATURE:BLENDEC_FOUL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A man-shaped creature with the legs of a goat and the empty-eyed skull of a goat.]
 	[NAME:foul blendec:foul blendecs:foul blendec]
 	[CASTE_NAME:foul blendec:foul blendecs:foul blendec]
@@ -4520,6 +4545,7 @@ creature_standard
 				[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:STRANGLER]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large, four-armed ape creature with three eyes and razor-sharp teeth.]
 	[NAME:strangler:stranglers:strangler]
 	[CASTE_NAME:strangler:stranglers:strangler]
@@ -4610,6 +4636,7 @@ creature_standard
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:NIGHTWING]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A flying monster with stretched skin over its emaciated body.  It has the head of a jackal with needle-like horns protruding through its mane.]
 	[NAME:nightwing:nightwings:nightwing]
 	[CASTE_NAME:nightwing:nightwings:nightwing]
@@ -4697,6 +4724,7 @@ creature_standard
 			[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:HARPY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A monster in the shape of a woman with a bird's wings in place of arms and talons for feet.]
 	[NAME:harpy:harpies:harpy]
 	[CASTE_NAME:harpy:harpies:harpy]
@@ -4866,6 +4894,7 @@ creature_standard
 			[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:HYDRA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A giant dragon-like monster with seven biting heads.]
 	[NAME:hydra:hydras:hydra]
 	[CASTE_NAME:hydra:hydras:hydra]
@@ -4973,6 +5002,7 @@ creature_standard
 		[TL_HEALING_RATE:1]
 
 [CREATURE:MERPERSON]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A man-like creature with the tail of a fish instead of legs.]
 	[NAME:merperson:merpeople:merperson]
 	[CREATURE_TILE:'M'][COLOR:3:0:1]
@@ -5213,6 +5243,7 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SEA_SERPENT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A giant limbless dragon that lives in the sea.]
 	[NAME:sea serpent:sea serpents:sea serpent]
 	[CASTE_NAME:sea serpent:sea serpents:sea serpent]
@@ -5305,6 +5336,7 @@ creature_standard
 		[MULTIPLY_VALUE:5]
 
 [CREATURE:SEA_MONSTER]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A giant creature with many eyes and arms to terrify the sea.]
 	[NAME:sea monster:sea monsters:sea monster]
 	[CASTE_NAME:sea monster:sea monsters:sea monster]
@@ -5386,6 +5418,7 @@ creature_standard
 		[MULTIPLY_VALUE:5]
 
 [CREATURE:BIRD_ROC]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A bird of prey so large and ferocious it dwarfs many dragons.  All beneath its mighty wings should fear the sky.]
 	[NAME:roc:rocs:roc]
 	[CASTE_NAME:roc:rocs:roc]

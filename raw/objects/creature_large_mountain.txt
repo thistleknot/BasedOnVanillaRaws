@@ -3,6 +3,7 @@ creature_large_mountain
 [OBJECT:CREATURE]
 
 [CREATURE:GOAT_MOUNTAIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized herbivore that lives in the high mountains, able to navigate the slopes despite its hooved feet.]
 	[NAME:mountain goat:mountain goats:mountain goat]
 	[CASTE_NAME:mountain goat:mountain goats:mountain goat]
@@ -107,6 +108,7 @@ creature_large_mountain
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MARMOT_HOARY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large rodent that lives in groups in the high mountains.]
 	[NAME:hoary marmot:hoary marmots:hoary marmot]
 	[CASTE_NAME:hoary marmot:hoary marmots:hoary marmot]
@@ -200,6 +202,7 @@ creature_large_mountain
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GNOME_MOUNTAIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny, jolly humanoid creature that dwells in the fair mountains.  They are known to enjoy drinking liquor and don't care whether it's theirs or not.]
 	[NAME:mountain gnome:mountain gnomes:mountain gnome]
 	[CASTE_NAME:mountain gnome:mountain gnomes:mountain gnome]
@@ -430,6 +433,7 @@ creature_large_mountain
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GNOME_DARK]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny, foul-tempered humanoid creature that dwells in the evil mountains.  They are known to enjoy drinking liquor and will take any unguarded supplies of booze.]
 	[NAME:dark gnome:dark gnomes:dark gnome]
 	[CASTE_NAME:dark gnome:dark gnomes:dark gnome]

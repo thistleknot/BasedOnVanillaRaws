@@ -4,6 +4,7 @@ creature_leather
 
 // fake creature for leather
 [CREATURE:ANIMAL_LEATHER]
+	[NATURAL:DISCIPLINE:3]
    [NAME:::]
    [USE_MATERIAL_TEMPLATE:LEATHER:LEATHER_TEMPLATE]
    [SELECT_MATERIAL:ALL]

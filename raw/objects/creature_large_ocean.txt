@@ -3,6 +3,7 @@ creature_large_ocean
 [OBJECT:CREATURE]
 
 [CREATURE:WALRUS]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A huge aquatic mammal with giant tusks and dense whiskers.  They are thick and blubbery and live almost exclusively on mussels.]
 	[NAME:walrus:walruses:walrus]
 	[CASTE_NAME:walrus:walruses:walrus]
@@ -78,6 +79,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_LAMPREY_SEA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small oceanic eel-like creature that latches onto the side of its victim and tears into them.]
 	[NAME:sea lamprey:sea lampreys:sea lamprey]
 	[CASTE_NAME:sea lamprey:sea lampreys:sea lamprey]
@@ -164,6 +166,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_GREAT_WHITE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A giant oceanic fish with rows and rows of razor-sharp pointed teeth.]
 	[NAME:great white shark:great white sharks:great white shark]
 	[CASTE_NAME:great white shark:great white sharks:great white shark]
@@ -244,6 +247,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_FRILL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large eel-like fish found in coastal waters.]
 	[NAME:frill shark:frill sharks:frill shark]
 	[CASTE_NAME:frill shark:frill sharks:frill shark]
@@ -324,6 +328,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_SPINY_DOGFISH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large fish found in coastal temperate waters.]
 	[NAME:spiny dogfish:spiny dogfish:spiny dogfish]
 	[CASTE_NAME:spiny dogfish:spiny dogfish:spiny dogfish]
@@ -404,6 +409,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_WOBBEGONG_SPOTTED]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A huge fish covered with growths and spots it uses to hide on the sea bed.  It is not usually aggressive.]
 	[NAME:spotted wobbegong:spotted wobbegongs:spotted wobbegong]
 	[CASTE_NAME:spotted wobbegong:spotted wobbegongs:spotted wobbegong]
@@ -484,6 +490,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_WHALE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A gigantic filter-feeding fish found in tropical oceans.]
 	[NAME:whale shark:whale sharks:shale shark]
 	[CASTE_NAME:whale shark:whale sharks:shale shark]
@@ -554,6 +561,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_BASKING]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A gigantic filter-feeding fish found in temperate oceans.]
 	[NAME:basking shark:basking sharks:basking shark]
 	[CASTE_NAME:basking shark:basking sharks:basking shark]
@@ -624,6 +632,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_NURSE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large nocturnal bottom-dwelling fish.  It is sluggish in movement and found in near-tropical shores.]
 	[NAME:nurse shark:nurse sharks:nurse shark]
 	[CASTE_NAME:nurse shark:nurse sharks:nurse shark]
@@ -703,6 +712,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_MAKO_SHORTFIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large, aggressive, oceanic fish with a mouth full of pointed teeth.  It is capable of great speed.]
 	[NAME:shortfin mako shark:shortfin mako sharks:shortfin mako shark]
 	[CASTE_NAME:shortfin mako shark:shortfin mako sharks:shortfin mako shark]
@@ -783,6 +793,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_MAKO_LONGFIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large fish which scavenges along tropical and temperate coastal waters.]
 	[NAME:longfin mako shark:longfin mako sharks:longfin mako shark]
 	[CASTE_NAME:longfin mako shark:longfin mako sharks:longfin mako shark]
@@ -863,6 +874,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_TIGER]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A giant, striped, oceanic fish known to devour anything in its path.]
 	[NAME:tiger shark:tiger sharks:tiger shark]
 	[CASTE_NAME:tiger shark:tiger sharks:tiger shark]
@@ -942,6 +954,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_BULL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized, aggressive, territorial fish.  It can be found in shallow oceanic waters, and has also been known to travel up large rivers.]
 	[NAME:bull shark:bull sharks:bull shark]
 	[CASTE_NAME:bull shark:bull sharks:bull shark]
@@ -1021,6 +1034,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_REEF_BLACKTIP]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized fish found in shallow oceanic waters.]
 	[NAME:blacktip reef shark:blacktip reef sharks:blacktip reef shark]
 	[CASTE_NAME:blacktip reef shark:blacktip reef sharks:blacktip reef shark]
@@ -1101,6 +1115,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_REEF_WHITETIP]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized fish which shelters in caves on the shallow sea floor.  It hunts for food in packs but is not aggressive.]
 	[NAME:whitetip reef shark:whitetip reef sharks:whitetip reef shark]
 	[CASTE_NAME:whitetip reef shark:whitetip reef sharks:whitetip reef shark]
@@ -1180,6 +1195,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_BLUE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large, dangerous fish found hunting in packs in any ocean.]
 	[NAME:blue shark:blue sharks:blue shark]
 	[CASTE_NAME:blue shark:blue sharks:blue shark]
@@ -1259,6 +1275,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_HAMMERHEAD]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large, dangerous fish, often found hunting solitarily along coastlines.]
 	[NAME:hammerhead shark:hammerhead sharks:hammerhead shark]
 	[CASTE_NAME:hammerhead shark:hammerhead sharks:hammerhead shark]
@@ -1339,6 +1356,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SHARK_ANGEL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large, flat, camouflaged fish found on the sea floor in temperate waters.  It is quite passive.]
 	[NAME:angelshark:angelsharks:angelshark]
 	[CASTE_NAME:angelshark:angelsharks:angelshark]
@@ -1419,6 +1437,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_SKATE_COMMON]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized, flat, bottom-dwelling fish.]
 	[NAME:common skate:common skates:common skate]
 	[CASTE_NAME:common skate:common skates:common skate]
@@ -1491,6 +1510,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_RAY_MANTA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A huge filter-feeding fish with great wings.  They travel the oceans and are curious and friendly.]
 	[NAME:manta ray:manta rays:manta ray]
 	[CASTE_NAME:manta ray:manta rays:manta ray]
@@ -1553,6 +1573,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_STINGRAY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized, flat fish.  It lives near the beach and will defend itself with sharp barbs.]
 	[NAME:stingray:stingrays:stingray]
 	[CASTE_NAME:stingray:stingrays:stingray]
@@ -1631,6 +1652,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_COELACANTH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:An elusive medium-sized fish found in coastal waters.]
 	[NAME:coelacanth:coelacanths:coelacanth]
 	[CASTE_NAME:coelacanth:coelacanths:coelacanth]
@@ -1712,6 +1734,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_STURGEON]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large oceanic fish covered with bony plates.]
 	[NAME:sturgeon:sturgeons:sturgeon]
 	[CASTE_NAME:sturgeon:sturgeons:sturgeon]
@@ -1797,6 +1820,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_CONGER_EEL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized, brown, snake-like fish found in freshwater.]
 	[NAME:conger eel:conger eels:conger eel]
 	[CASTE_NAME:conger eel:conger eels:conger eel]
@@ -1866,6 +1890,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_MILKFISH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized fish found around coasts and islands.  It is easy prey for predators.]
 	[NAME:milkfish:milkfish:milkfish]
 	[CASTE_NAME:milkfish:milkfish:milkfish]
@@ -1954,6 +1979,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_COD]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized oceanic fish, often hunted for its meat.]
 	[NAME:cod:cod:cod]
 	[CASTE_NAME:cod:cod:cod]
@@ -2037,6 +2063,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_OPAH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large oceanic fish.  It is flat, round and red.]
 	[NAME:opah:opah:opah]
 	[CASTE_NAME:opah:opah:opah]
@@ -2119,6 +2146,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_GROUPER_GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large, big-mouthed fish, found around coral reefs.]
 	[NAME:giant grouper:giant groupers:giant grouper]
 	[CASTE_NAME:giant grouper:giant groupers:giant grouper]
@@ -2200,6 +2228,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_BLUEFISH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized oceanic fish.  It is fork-tailed and sought after for its meat.]
 	[NAME:bluefish:bluefish:bluefish]
 	[CASTE_NAME:bluefish:bluefish:bluefish]
@@ -2283,6 +2312,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_SUNFISH_OCEAN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A giant oceanic creature resembling a huge fish's head connected to a wide tail.]
 	[NAME:ocean sunfish:ocean sunfish:ocean sunfish]
 	[CASTE_NAME:ocean sunfish:ocean sunfish:ocean sunfish]
@@ -2366,6 +2396,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_SWORDFISH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A huge predatory fish found in open ocean.  It has a long pointed bill which it uses to slash and ram.]
 	[NAME:swordfish:swordfish:swordfish]
 	[CASTE_NAME:swordfish:swordfish:swordfish]
@@ -2449,6 +2480,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_MARLIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A huge oceanic fish capable of great speed.  It has a long, sharp snout used for slashing its prey.]
 	[NAME:marlin:marlins:marlin]
 	[CASTE_NAME:marlin:marlins:marlin]
@@ -2532,6 +2564,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_HALIBUT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large, flat, oceanic fish.  It dwells on the sea floor, both its eyes on the top side.]
 	[NAME:halibut:halibut:halibut]
 	[CASTE_NAME:halibut:halibut:halibut]
@@ -2614,6 +2647,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_BARRACUDA_GREAT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large, long fish with many sharp fangs.  It hunts by ambushing its prey.]
 	[NAME:great barracuda:great barracudas:great barracuda]
 	[CASTE_NAME:great barracuda:great barracudas:great barracuda]
@@ -2698,6 +2732,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_TUNA_BLUEFIN]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large oceanic fish capable of great speed.]
 	[NAME:bluefin tuna:bluefin tuna:bluefin tuna]
 	[CASTE_NAME:bluefin tuna:bluefin tuna:bluefin tuna]
@@ -2790,6 +2825,7 @@ Narwhals were sponsored by the generous contributions of the Bay 12 community.
 	Kete
 
 [CREATURE:NARWHAL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized sea mammal with a long thin horn on its nose.  It uses this horn to communicate and break up ice.]
 	[NAME:narwhal:narwhals:narwhal]
 	[CASTE_NAME:narwhal:narwhals:narwhal]
@@ -2882,6 +2918,7 @@ Narwhals were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:NARWHAL MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:NARWHAL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS]
 	[GO_TO_END]
@@ -2907,6 +2944,7 @@ Narwhals were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:0]
 
 [CREATURE:NARWHAL, GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:NARWHAL]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]

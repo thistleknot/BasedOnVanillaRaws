@@ -3,6 +3,7 @@ creature_amphibians
 [OBJECT:CREATURE]
 
 [CREATURE:TOAD]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A squat amphibian with leathery skin, found in relatively dry areas.]
 	[NAME:toad:toads:toad]
 	[CASTE_NAME:toad:toads:toad]

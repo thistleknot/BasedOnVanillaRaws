@@ -3,6 +3,7 @@ creature_large_temperate
 [OBJECT:CREATURE]
 
 [CREATURE:BEAR_GRIZZLY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A huge brown creature found in temperate woodland.  It is known for its ferocious attack, usually when it or its young are threatened.]
 	[NAME:grizzly bear:grizzly bears:grizzly bear]
 	[CASTE_NAME:grizzly bear:grizzly bears:grizzly bear]
@@ -102,6 +103,7 @@ creature_large_temperate
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:BEAR_BLACK]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large omnivorous predator found in temperate woodlands.  Mainly living on berries, it will also steal carcasses from other hunters.  Though normally a docile animal, it has been known to kill in a predatory attack.]
 	[NAME:black bear:black bears:black bear]
 	[CASTE_NAME:black bear:black bears:black bear]
@@ -199,6 +201,7 @@ creature_large_temperate
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:DEER]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized hoofed forest creature that grows its antlers back each year.]
 	[NAME:deer:deer:deer]
 	[CASTE_NAME:deer:deer:deer]
@@ -308,6 +311,7 @@ creature_large_temperate
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FOX]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small carnivorous animal found in temperate climates.  It has orange fur and is known for its cleverness.]
 	[NAME:fox:foxes:fox]
 	[CASTE_NAME:fox:foxes:fox]
@@ -399,6 +403,7 @@ creature_large_temperate
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:RACCOON]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small omnivorous animal with a bright mask of fur.  It is nocturnal and found in temperate forests.  It is a curious animal and has been known to steal from civilized areas.]
 	[NAME:raccoon:raccoons:raccoon]
 	[CASTE_NAME:raccoon:raccoons:raccoon]
@@ -492,6 +497,7 @@ creature_large_temperate
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MACAQUE_RHESUS]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized monkey found in woods and grassland.  It usually lives on roots and insects but can become a pest in civilized areas, roaming in large groups and begging for scraps.]
 	[NAME:rhesus macaque:rhesus macaques:rhesus macaque]
 	[CASTE_NAME:rhesus macaque:rhesus macaques:rhesus macaque]
@@ -584,6 +590,7 @@ creature_large_temperate
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:COUGAR]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large solitary feline.  It is found most often in dense vegetation, ambushing its prey.]
 	[NAME:cougar:cougars:cougar]
 	[CASTE_NAME:cougar:cougars:cougar]
@@ -678,6 +685,7 @@ creature_large_temperate
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:WOLF]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large canine found in temperate regions.  It is territorial and hunts in packs.]
 	[NAME:wolf:wolves:wolf]
 	[CASTE_NAME:wolf:wolves:wolf]
@@ -772,6 +780,7 @@ creature_large_temperate
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:GROUNDHOG]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large, round, lowland rodent.  It lives in burrows in the ground and ventures out to eat.]
 	[NAME:groundhog:groundhogs:groundhog]
 	[CASTE_NAME:groundhog:groundhogs:groundhog]
@@ -866,6 +875,7 @@ creature_large_temperate
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ALLIGATOR]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A huge reptile, found in rivers and marshlands.  It is an ambush predator, solitary and territorial.]
 	[NAME:alligator:alligators:alligator]
 	[CASTE_NAME:alligator:alligators:alligator]
@@ -969,6 +979,7 @@ creature_large_temperate
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:BIRD_BUZZARD]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized, red-faced black bird that searches the temperate lands for carrion.]
 	[NAME:buzzard:buzzards:buzzard]
 	[CASTE_NAME:buzzard:buzzards:buzzard]
@@ -1083,6 +1094,7 @@ Pandas were sponsored by the generous contributions of the Bay 12 community.
 	Masaka
 
 [CREATURE:PANDA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large bear-like creature with a striking coat of black and white hair.  It feeds on bamboo forests.]
 	[NAME:panda:pandas:panda]
 	[CASTE_NAME:panda:pandas:panda]
@@ -1197,6 +1209,7 @@ Pandas were sponsored by the generous contributions of the Bay 12 community.
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:PANDA, GIGANTIC]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:PANDA]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:GRAZER]
@@ -1229,6 +1242,7 @@ Pandas were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
 
 [CREATURE:PANDA MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:PANDA]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[CV_REMOVE_TAG:GRAZER]
@@ -1285,6 +1299,7 @@ Capybaras were sponsored by the generous contributions of the Bay 12 community.
 	Cameo
 
 [CREATURE:CAPYBARA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized semi-aquatic rodent.  It lives in large herds and barks when alarmed.]
 	[NAME:capybara:capybaras:capybara]
 	[CASTE_NAME:capybara:capybaras:capybara]
@@ -1385,6 +1400,7 @@ Capybaras were sponsored by the generous contributions of the Bay 12 community.
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:CAPYBARA, GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:CAPYBARA]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:GRAZER]
@@ -1421,6 +1437,7 @@ Capybaras were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
 
 [CREATURE:CAPYBARA MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:CAPYBARA]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[CV_REMOVE_TAG:GRAZER]
@@ -1458,6 +1475,7 @@ Badgers were sponsored by the generous contributions of the Bay 12 community.
 	canccu
 
 [CREATURE:BADGER]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small mammal with a striped face.  It lives in groups and is ferocious in combat.]
 	[NAME:badger:badgers:badger]
 	[CHILD:1][GENERAL_CHILD_NAME:badger cub:badger cubs]
@@ -1569,6 +1587,7 @@ Badgers were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BADGER MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BADGER]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_TAG:TISSUE_LAYER:BY_CATEGORY:TOE:NAIL:FRONT]
@@ -1609,6 +1628,7 @@ Badgers were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CURRENT_CREATURE_VARIATION]
 
 [CREATURE:BADGER, GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BADGER]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1647,6 +1667,7 @@ Moose were sponsored by the generous contributions of the Bay 12 community.
 	A møøse once bit my sister. / Mynd you, møøse bites kan be pretty nasti...
 
 [CREATURE:MOOSE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large mammal with great antlers and a large nose. It lives in temperate forests.]
 	[NAME:moose:moose:moose]
 	[CHILD:1][GENERAL_CHILD_NAME:moose calf:moose calves]
@@ -1762,6 +1783,7 @@ Moose were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MOOSE MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MOOSE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[CV_REMOVE_TAG:GRAZER]
@@ -1796,6 +1818,7 @@ Moose were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:MOOSE, GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MOOSE]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:GRAZER]
@@ -1839,6 +1862,7 @@ Red pandas were sponsored by the generous contributions of the Bay 12 community.
 	m0nster
 
 [CREATURE:RED PANDA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small tree-dwelling mammal with distinctive color.  It rears up on its hind legs when cornered.  It uses its front paws like hands.]
 	[NAME:red panda:red pandas:red panda]
 	[CHILD:1][GENERAL_CHILD_NAME:red panda cub:red panda cubs]
@@ -1970,6 +1994,7 @@ Red pandas were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:RED PANDA MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:RED PANDA]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[CV_REMOVE_TAG:GRAZER]
@@ -2013,6 +2038,7 @@ Red pandas were sponsored by the generous contributions of the Bay 12 community.
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
 [CREATURE:RED PANDA, GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:RED PANDA]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:GRAZER]

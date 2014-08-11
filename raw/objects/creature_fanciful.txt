@@ -3,6 +3,7 @@ creature_fanciful
 [OBJECT:CREATURE]
 
 [CREATURE:CHIMERA]
+	[NATURAL:DISCIPLINE:3]
 	[NAME:chimera:chimeras:chimeric]
 	[CREATURE_TILE:'C'][COLOR:2:0:1]
 	[FANCIFUL]
@@ -11,6 +12,7 @@ creature_fanciful
 	[ALL_ACTIVE]
 
 [CREATURE:CENTAUR]
+	[NATURAL:DISCIPLINE:3]
 	[NAME:centaur:centaurs:centaur]
 	[CREATURE_TILE:'C'][COLOR:6:0:0]
 	[FANCIFUL]
@@ -25,6 +27,7 @@ creature_fanciful
 		[MALE]
 
 [CREATURE:GRIFFON]
+	[NATURAL:DISCIPLINE:3]
 	[NAME:griffon:griffons:griffon]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[FANCIFUL]

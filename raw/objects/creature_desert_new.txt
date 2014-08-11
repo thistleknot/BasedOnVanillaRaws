@@ -7,6 +7,7 @@ Geckos were sponsored by the generous contributions of the Bay 12 community.
 	Ghoulz - 15 minutes could save you 15% or more on carp insurance.
 
 [CREATURE:GECKO_LEOPARD]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny, brightly-colored lizard with feet that can stick to branch and stone.]
 	[NAME:leopard gecko:leopard geckos:leopard gecko]
 	[CASTE_NAME:leopard gecko:leopard geckos:leopard gecko]
@@ -81,6 +82,7 @@ Geckos were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:LEOPARD_GECKO_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:GECKO_LEOPARD]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -106,6 +108,7 @@ Geckos were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:1]
 
 [CREATURE:GIANT_LEOPARD_GECKO]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:GECKO_LEOPARD]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -137,6 +140,7 @@ Desert tortoises were sponsored by the generous contributions of the Bay 12 comm
 	Zari
 
 [CREATURE:DESERT TORTOISE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny shelled reptile that lives in the desert.]
 	[NAME:desert tortoise:desert tortoises:desert tortoise]
 	[CASTE_NAME:desert tortoise:desert tortoises:desert tortoise]
@@ -223,6 +227,7 @@ Desert tortoises were sponsored by the generous contributions of the Bay 12 comm
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:DESERT_TORTOISE_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:DESERT TORTOISE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -248,6 +253,7 @@ Desert tortoises were sponsored by the generous contributions of the Bay 12 comm
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_DESERT_TORTOISE]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:DESERT TORTOISE]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -279,6 +285,7 @@ Gila monsters were sponsored by the generous contributions of the Bay 12 communi
 	Funnyguts
 
 [CREATURE:GILA_MONSTER]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small venomous lizard.]
 	[NAME:gila monster:gila monsters:gila monster]
 	[CASTE_NAME:gila monster:gila monsters:gila monster]
@@ -388,6 +395,7 @@ Gila monsters were sponsored by the generous contributions of the Bay 12 communi
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:GILA_MONSTER_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:GILA_MONSTER]
 	[CV_CONVERT_TAG]
 		[CVCT_MASTER:STATE_NAME]
@@ -430,6 +438,7 @@ Gila monsters were sponsored by the generous contributions of the Bay 12 communi
 	[COLOR:4:0:1]
 
 [CREATURE:GIANT_GILA_MONSTER]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:GILA_MONSTER]
 	[CV_CONVERT_TAG]
 		[CVCT_MASTER:STATE_NAME]

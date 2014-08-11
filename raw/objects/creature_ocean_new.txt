@@ -9,6 +9,7 @@ Octopuses were sponsored by the generous contributions of the Bay 12 community.
 	Gigalith
 
 [CREATURE:OCTOPUS]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A medium-sized underwater mollusk with eight arms.  It is the most clever of its kind.]
 	[NAME:octopus:octopuses:octopus]
 	[CASTE_NAME:octopus:octopuses:octopus]
@@ -88,6 +89,7 @@ Octopuses were sponsored by the generous contributions of the Bay 12 community.
 			[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:OCTOPUS_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:OCTOPUS]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -113,6 +115,7 @@ Octopuses were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:0]
 
 [CREATURE:GIANT_OCTOPUS]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:OCTOPUS]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -141,6 +144,7 @@ Crabs were sponsored by the generous contributions of the Bay 12 community.
 	Aqizzar
 
 [CREATURE:CRAB]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny shelled ocean creature with many long legs.  It has two large pincers on its front limbs.]
 	[NAME:crab:crabs:crab]
 	[CASTE_NAME:crab:crabs:crab]
@@ -194,6 +198,7 @@ Crabs were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CRAB_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:CRAB]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_TAG:BODY]
@@ -221,6 +226,7 @@ Crabs were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:4:0:1]
 
 [CREATURE:GIANT_CRAB]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:CRAB]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -251,6 +257,7 @@ Leopard seals were sponsored by the generous contributions of the Bay 12 communi
 	heph
 
 [CREATURE:LEOPARD_SEAL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large predatory amphibious mammal.  It is difficult to evade once in the water.]
 	[NAME:leopard seal:leopard seals:leopard seal]
 	[CASTE_NAME:leopard seal:leopard seals:leopard seal]
@@ -322,6 +329,7 @@ Leopard seals were sponsored by the generous contributions of the Bay 12 communi
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:LEOPARD_SEAL_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:LEOPARD_SEAL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS]
 	[CV_CONVERT_TAG]
@@ -351,6 +359,7 @@ Leopard seals were sponsored by the generous contributions of the Bay 12 communi
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_LEOPARD_SEAL]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:LEOPARD_SEAL]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -382,6 +391,7 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 	Duncan Pettengill - "If you push something hard enough, it will fall over"
 
 [CREATURE:CUTTLEFISH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny sea mollusk.  It can change color and skin patterns for communication.]
 	[NAME:cuttlefish:cuttlefish:cuttlefish]
 	[CASTE_NAME:cuttlefish:cuttlefish:cuttlefish]
@@ -462,6 +472,7 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 			[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:CUTTLEFISH_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:CUTTLEFISH]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -487,6 +498,7 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_CUTTLEFISH]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:CUTTLEFISH]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -514,6 +526,7 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 Orcas were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:ORCA]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A huge ocean mammal.  It is a vicious predator and can hunt in groups.]
 	[NAME:orca:orcas:orca]
 	[CASTE_NAME:orca:orcas:orca]
@@ -594,6 +607,7 @@ Orcas were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ORCA_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:ORCA]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS]
 	[GO_TO_END]
@@ -619,6 +633,7 @@ Orcas were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_ORCA]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:ORCA]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -646,6 +661,7 @@ Orcas were sponsored by the generous contributions of the Bay 12 community.
 Sponges were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:SPONGE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny sea creature which dwells on the ocean floor, devoid of senses or motion.]
 	[NAME:sponge:sponges:sponge]
 	[CASTE_NAME:sponge:sponges:sponge]
@@ -685,6 +701,7 @@ Sponges were sponsored by the generous contributions of the Bay 12 community.
 			[TLCM_NOUN:body:SINGULAR]
 
 [CREATURE:SPONGE_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SPONGE]
 	[GO_TO_TAG:BODY:BASIC_1PARTBODY]
 	[BODY:HUMANOID_SIMPLE]
@@ -710,6 +727,7 @@ Sponges were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:4:0:1]
 
 [CREATURE:GIANT_SPONGE]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SPONGE]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -735,6 +753,7 @@ Horseshoe crabs were sponsored by the generous contributions of the Bay 12 commu
 	"We were here ages ago, we'll be here after all of you are gone."
 
 [CREATURE:HORSESHOE_CRAB]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny sea animal that lives in the sand just offshore.  It has a flat body with legs underneath.]
 	[NAME:horseshoe crab:horseshoe crabs:horseshoe crab]
 	[CASTE_NAME:horseshoe crab:horseshoe crabs:horseshoe crab]
@@ -779,6 +798,7 @@ Horseshoe crabs were sponsored by the generous contributions of the Bay 12 commu
 				[TLCM_NOUN:chitin:SINGULAR]
 
 [CREATURE:HORSESHOE_CRAB_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:HORSESHOE_CRAB]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_TAG:BODY]
@@ -806,6 +826,7 @@ Horseshoe crabs were sponsored by the generous contributions of the Bay 12 commu
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_HORSESHOE_CRAB]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:HORSESHOE_CRAB]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -834,6 +855,7 @@ Sperm whales were sponsored by the generous contributions of the Bay 12 communit
 	MUX
 
 [CREATURE:SPERM_WHALE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A giant marine mammal with a toothy jaw.]
 	[NAME:sperm whale:sperm whales:sperm whale]
 	[CASTE_NAME:sperm whale:sperm whales:sperm whale]
@@ -915,6 +937,7 @@ Sperm whales were sponsored by the generous contributions of the Bay 12 communit
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SPERM_WHALE_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SPERM_WHALE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS]
 	[GO_TO_END]
@@ -940,6 +963,7 @@ Sperm whales were sponsored by the generous contributions of the Bay 12 communit
 	[COLOR:7:0:0]
 
 [CREATURE:GIANT_SPERM_WHALE]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SPERM_WHALE]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -969,6 +993,7 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 	Cruxador
 
 [CREATURE:ELEPHANT_SEAL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large, predatory marine mammal.]
 	[NAME:elephant seal:elephant seals:elephant seal]
 	[CASTE_NAME:elephant seal:elephant seals:elephant seal]
@@ -1044,6 +1069,7 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ELEPHANT_SEAL_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:ELEPHANT_SEAL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS]
 	[CV_CONVERT_TAG]
@@ -1073,6 +1099,7 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_ELEPHANT_SEAL]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:ELEPHANT_SEAL]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1102,6 +1129,7 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 Harp seals were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:HARP_SEAL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small marine mammal.  Its young are prized for their white fur.]
 	[NAME:harp seal:harp seals:harp seal]
 	[CASTE_NAME:harp seal:harp seals:harp seal]
@@ -1173,6 +1201,7 @@ Harp seals were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:HARP_SEAL_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:HARP_SEAL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS]
 	[CV_CONVERT_TAG]
@@ -1202,6 +1231,7 @@ Harp seals were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:0]
 
 [CREATURE:GIANT_HARP_SEAL]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:HARP_SEAL]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1232,6 +1262,7 @@ Nautiluses were sponsored by the generous contributions of the Bay 12 community.
 	Adam Isom
 
 [CREATURE:NAUTILUS]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny, mollusk with a large shell and many tentacles.]
 	[NAME:nautilus:nautiluses:nautilus]
 	[CASTE_NAME:nautilus:nautiluses:nautilus]
@@ -1303,6 +1334,7 @@ Nautiluses were sponsored by the generous contributions of the Bay 12 community.
 			[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:NAUTILUS_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:NAUTILUS]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1328,6 +1360,7 @@ Nautiluses were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:4:0:1]
 
 [CREATURE:GIANT_NAUTILUS]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:NAUTILUS]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]

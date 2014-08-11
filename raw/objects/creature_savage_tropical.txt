@@ -3,6 +3,7 @@ creature_savage_tropical
 [OBJECT:CREATURE]
 
 [CREATURE:LION_GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A gigantic version of the feline predator.  Its giant prides can be found in the wildest, most savage parts of the world.]
 	[NAME:giant lion:giant lions:giant lion]
 	[CASTE_NAME:giant lion:giant lions:giant lion]
@@ -96,6 +97,7 @@ creature_savage_tropical
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:LEOPARD_GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A gigantic spotted predator, dwarfing its small cousins.  It is found in the wild lands.]
 	[NAME:giant leopard:giant leopards:giant leopard]
 	[CASTE_NAME:giant leopard:giant leopards:giant leopard]
@@ -192,6 +194,7 @@ creature_savage_tropical
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:JAGUAR_GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A gigantic feline predator, similar to its cousins in all but size.  It can be found in the savage wilderness.]
 	[NAME:giant jaguar:giant jaguars:giant jaguar]
 	[CASTE_NAME:giant jaguar:giant jaguars:giant jaguar]
@@ -288,6 +291,7 @@ creature_savage_tropical
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:TIGER_GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:The largest of the giant cats.  It can be found hunting alone in the most savage countryside.]
 	[NAME:giant tiger:giant tigers:giant tiger]
 	[CASTE_NAME:giant tiger:giant tigers:giant tiger]
@@ -383,6 +387,7 @@ creature_savage_tropical
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:CHEETAH_GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A gigantic spotted cat.  It is possibly the fastest animal on land and is found in the savage wilds.]
 	[NAME:giant cheetah:giant cheetahs:giant cheetah]
 	[CASTE_NAME:giant cheetah:giant cheetahs:giant cheetah]
@@ -476,6 +481,7 @@ creature_savage_tropical
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:SCORPION_DESERT_GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A gigantic arachnid with huge pincers and a poisonous barbed tail.  It is found in the savage lands.]
 	[NAME:giant desert scorpion:giant desert scorpions:giant desert scorpion]
 	[CASTE_NAME:giant desert scorpion:giant desert scorpions:giant desert scorpion]

@@ -3,6 +3,7 @@ creature_next_underground
 [OBJECT:CREATURE]
 
 [CREATURE:FLOATING_GUTS]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A transparent and amorphous monster that lives underground.  It is small in size and is found crawling across the cavern floor.  Its organs appear to be floating inside of its body.]
 	[NAME:floating guts:floating guts:floating guts]
@@ -57,6 +58,7 @@ creature_next_underground
 			[TLCM_NOUN:fat:SINGULAR]
 
 [CREATURE:DRUNIAN]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A large quadruped with a mane circling its manlike face and hands at the end of its forelimbs.  It lives underground and is fond of raiding the supplies of cavern outposts.]
 	[NAME:drunian:drunians:drunian]
@@ -147,6 +149,7 @@ creature_next_underground
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CREEPING_EYE]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A small underground monster that crawls across the cavern wall with its four clawed hands.  It has a single large eye which can shine with its own light, otherwise its stony skin blends in with the rock.  It has no mouth and is said to feed on evil alone.]
 	[NAME:creeping eye:creeping eyes:creeping eye]
@@ -201,6 +204,7 @@ creature_next_underground
 			[TLCM_NOUN:eye:SINGULAR]
 
 [CREATURE:VORACIOUS_CAVE_CRAWLER]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A huge cave monster with hundreds of feet moving along the bottom of its long body.  In place of a head, it has an enormous toothy maw.]
 	[NAME:voracious cave crawler:voracious cave crawlers:voracious cave crawler]
@@ -274,6 +278,7 @@ creature_next_underground
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:BLIND_CAVE_OGRE]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A large cavern-dwelling humanoid monster.  It has a gaping mouth with many sharp teeth.  It has no eyes and only two digits on each hand and foot.]
 	[NAME:blind cave ogre:blind cave ogres:blind cave ogre]
@@ -368,6 +373,7 @@ creature_next_underground
 				[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:CAP_HOPPER]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A tiny amphibian with a long prehensile tail.  It lives in underground swamps and tower-cap forests on which it feeds.]
 	[NAME:cap hopper:cap hoppers:cap hopper]
@@ -438,6 +444,7 @@ creature_next_underground
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MAGMA_CRAB]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A small rock-eating creature that lives in molten rock.  It scurries on little feet and swims through liquid rock with sharp wings.  It uses magma to digest rock and spits out burning globs.]
 	[NAME:magma crab:magma crabs:magma crab]
@@ -502,6 +509,7 @@ creature_next_underground
 		[IF_EXISTS_SET_BOILING_POINT:15000]
 
 [CREATURE:CRUNDLE]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A tiny underground monster with large claws and horns.  It walks on two legs and is dangerous when encountered in large numbers.]
 	[NAME:crundle:crundles:crundle]
@@ -624,6 +632,7 @@ creature_next_underground
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:HUNGRY_HEAD]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A fearsome, long-toothed mouth the size of a man's head, flying on bat wings.  It is found in deep caves.]
 	[NAME:hungry head:hungry heads:hungry head]
@@ -696,6 +705,7 @@ creature_next_underground
 				[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:FLESH_BALL]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A large ball of skin found moving around the debris near underground ponds.  It is there that it absorbs dead matter for food.]
 	[NAME:flesh ball:flesh balls:flesh ball]
@@ -737,6 +747,7 @@ creature_next_underground
 			[TLCM_NOUN:flesh:SINGULAR]
 
 [CREATURE:ELK_BIRD]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A large creature found grazing on mushrooms deep underground.  It walks on two legs and has the head of a bird with the antlers of a great elk.]
 	[NAME:elk bird:elk birds:elk bird]
@@ -850,6 +861,7 @@ creature_next_underground
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:HELMET_SNAKE]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A snake-like creature living deep underground.  Its head is covered in armor so that is resembles the head of a dragon.]
 	[NAME:helmet snake:helmet snakes:helmet snake]
@@ -962,6 +974,7 @@ creature_next_underground
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:GREEN_DEVOURER]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A medium-sized monster walking on two clawed legs.  It has two mouths on the ends of a pair of tentacles.  It uses its mouths to digest its victims with acid and rows of razor-like teeth.]
 	[NAME:green devourer:green devourers:green devourer]
@@ -1032,6 +1045,7 @@ creature_next_underground
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:RUTHERER]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A huge monster with an enormous tail, covered with thick fur.  They run on four legs and can be found deep under the earth.]
 	[NAME:rutherer:rutherers:rutherer]
@@ -1118,6 +1132,7 @@ creature_next_underground
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:CREEPY_CRAWLER]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A tiny underground creature made of a mass of appendages resembling human fingers.  It creeps across the ground like a starfish and eats with a mouth on the bottom of its body.]
 	[NAME:creepy crawler:creepy crawlers:creepy crawler]
@@ -1164,6 +1179,7 @@ creature_next_underground
 				[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:DRALTHA]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A large, long-bodied grazer with a thick mane that feeds on the tops of towercap mushrooms deep under the earth.]
 	[NAME:draltha:dralthas:draltha]
@@ -1251,6 +1267,7 @@ creature_next_underground
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:GIANT_EARTHWORM]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A gigantic version of its tiny cousin, this long, slimy creature tunnels through the rocks deep underground.]
 	[NAME:giant earthworm:giant earthworms:giant earthworm]
@@ -1300,6 +1317,7 @@ creature_next_underground
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:BLOOD_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A man-shaped abomination made entirely of blood.  These cursed creatures are only found very near the underworld.]
 	[NAME:blood man:blood men:blood man]
@@ -1373,6 +1391,7 @@ creature_next_underground
 	[ALL_ACTIVE]
 
 [CREATURE:BUGBAT]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A small bat-like creature with the head of an insect.  It is found deep underground.]
 	[NAME:bugbat:bugbats:bugbat]
@@ -1457,6 +1476,7 @@ creature_next_underground
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MANERA]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A creature that crawls along the cavern ceiling with four long arms.  Its body is shaped as the head of a man with a mouth full of shark teeth.  It waits for its prey to pass below.]
 	[NAME:manera:maneras:manera]
@@ -1540,6 +1560,7 @@ creature_next_underground
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MOLEMARIAN]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A hideous monster that has the body of a giant mole-rat and the torso of a mole-rat man.   It is found deep underground.]
 	[NAME:molemarian:molemarians:molemarian]
@@ -1629,6 +1650,7 @@ creature_next_underground
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:JABBERER]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A huge monster that lurks in caverns deep under the earth.  It uses its wide beak to reach down and pluck up unsuspecting intruders.]
 	[NAME:jabberer:jabberers:jabberer]
@@ -1735,6 +1757,7 @@ creature_next_underground
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:POND_GRABBER]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A small creature that lives in watery ditches deep underground.  It has a sharp beak and four tentacles with claws at the end.]
 	[NAME:pond grabber:pond grabbers:pond grabber]
@@ -1805,6 +1828,7 @@ creature_next_underground
 			[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:BLIND_CAVE_BEAR]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A huge emaciated-looking bear with great drooping ears and many sharp teeth.  It is found deep underground.]
 	[NAME:blind cave bear:blind cave bears:blind cave bear]
@@ -1890,6 +1914,7 @@ creature_next_underground
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:CAVE_DRAGON]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A gigantic monster, once a dragon, now adapted to and polluted by the underground.  Its wings fall limp at its side.  Its face is full of incredibly long teeth.  Its eyes are large to penetrate the darkness.]
 	[NAME:cave dragon:cave dragons:cave draconic]
@@ -2003,6 +2028,7 @@ creature_next_underground
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:REACHER]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A humanoid monster found lurking far underground.  It feigns death, usually near water, until a victim passes by.  It then uses its long arms to drag its prey into the water to drown or strangle them.]
 	[NAME:reacher:reachers:reacher]
@@ -2106,6 +2132,7 @@ creature_next_underground
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ELEMENTMAN_GABBRO]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:Living gabbro in the shape of a man.  These strange creatures are found deep underground.]
 	[NAME:gabbro man:gabbro men:gabbro man]
@@ -2169,6 +2196,7 @@ creature_next_underground
 	[ALL_ACTIVE]
 
 [CREATURE:GORLAK]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A small, round humanoid found wandering the caves deep underground.  Most of its body is taken up by a huge tusked mouth.]
 	[NAME:gorlak:gorlaks:gorlak]
@@ -2293,6 +2321,7 @@ creature_next_underground
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CAVE_FLOATER]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A floating pod with eye-stalks.  It can spray poison and it gives off poison gas when punctured.]
 	[NAME:cave floater:cave floaters:cave floater]
@@ -2378,6 +2407,7 @@ creature_next_underground
 			[TLCM_NOUN:exterior:SINGULAR]
 
 [CREATURE:PLUMP_HELMET_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A small humanoid resembling a walking mushroom with arms and legs.  It lives far underground near water and soil.]
 	[NAME:plump helmet man:plump helmet men:plump helmet man]
@@ -2465,6 +2495,7 @@ creature_next_underground
 				[TLCM_NOUN:exterior:SINGULAR]
 
 [CREATURE:CAVE_BLOB]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A strange shapeless life form with an orange leathery skin containing a liquid interior.  It can secrete its internal fluid.]
 	[NAME:cave blob:cave blobs:cave blob]
@@ -2536,6 +2567,7 @@ creature_next_underground
 			[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:ELEMENTMAN_AMETHYST]
+	[NATURAL:DISCIPLINE:3]
 	[ARENA_RESTRICTED]
 	[DESCRIPTION:A strange crystalline creature the shape of a man.  It is found deep underground.]
 	[NAME:amethyst man:amethyst men:amethyst man]

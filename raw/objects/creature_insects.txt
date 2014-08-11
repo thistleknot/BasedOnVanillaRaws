@@ -3,6 +3,7 @@ creature_insects
 [OBJECT:CREATURE]
 
 [CREATURE:FLY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny flying insect found around rotting meat and garbage.  These bugs are widely considered to be a nuisance.]
 	[NAME:fly:flies:fly]
 	[CASTE_NAME:fly:flies:fly]
@@ -59,6 +60,7 @@ creature_insects
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ROACH_LARGE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small insect that seeks out unwatched food and garbage.  They fear light.]
 	[NAME:large roach:large roaches:large roach]
 	[CASTE_NAME:large roach:large roaches:large roach]
@@ -115,6 +117,7 @@ creature_insects
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BEETLE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny insect that can be found almost anywhere outside.]
 	[NAME:beetle:beetles:beetle]
 	[CASTE_NAME:beetle:beetles:beetle]
@@ -169,6 +172,7 @@ creature_insects
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ANT]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:This tiny insect can be found in huge colonies in the dirt.  They overwhelm their enemies with swarms.  Some have poison bites.]
 	[NAME:ant:ants:ant]
 	[CREATURE_TILE:161][COLOR:7:0:0]
@@ -248,6 +252,7 @@ creature_insects
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BUTTERFLY_MONARCH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small insect with large orange wings.  It is admired for its beauty.]
 	[CREATURE_TILE:144][COLOR:4:0:1]
 	[NAME:monarch butterfly:monarch butterflies:monarch butterfly]
@@ -301,6 +306,7 @@ creature_insects
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FIREFLY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny flying insect that can be seen at night by its glowing tail.]
 	[NAME:firefly:fireflies:firefly]
 	[CASTE_NAME:firefly:fireflies:firefly]
@@ -356,6 +362,7 @@ creature_insects
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:DRAGONFLY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A relatively large insect found in swamps and marshland.]
 	[NAME:dragonfly:dragonflies:dragonfly]
 	[CASTE_NAME:dragonfly:dragonflies:dragonfly]
@@ -418,6 +425,7 @@ Bees were sponsored by the generous contributions of the Bay 12 community.
 	John McNeil
 
 [CREATURE:HONEY_BEE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small flying insect that lives in large colonies.  It has a powerful stinger on its tail.  Its hives are prized for their honey.]
 	[NAME:honey bee:honey bees:honey bee]
 	[CREATURE_TILE:144][COLOR:6:0:1]
@@ -542,6 +550,7 @@ Bees were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BUMBLEBEE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small woolly insect that lives in hive colonies.  It has an annoying sting which it rarely uses.]
 	[NAME:bumblebee:bumblebees:bumblebee]
 	[CREATURE_TILE:144][COLOR:6:0:1]

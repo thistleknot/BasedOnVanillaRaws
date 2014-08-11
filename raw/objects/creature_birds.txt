@@ -3,6 +3,7 @@ creature_birds
 [OBJECT:CREATURE]
 
 [CREATURE:BIRD_BLUEJAY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small blue-crested bird living in temperate woodlands, known for its harsh chirps.]
 	[NAME:blue jay:blue jays:blue jay]
 	[CASTE_NAME:blue jay:blue jays:blue jay]
@@ -108,6 +109,7 @@ creature_birds
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_CARDINAL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small bright red bird with a distinctive crest, found in temperate forests.]
 	[NAME:cardinal:cardinals:cardinal]
 	[CASTE_NAME:cardinal:cardinals:cardinal]
@@ -212,6 +214,7 @@ creature_birds
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_GRACKLE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small gregarious bird, blue and black with yellow eyes, found in temperate pastures.]
 	[NAME:grackle:grackles:grackle]
 	[CASTE_NAME:grackle:grackles:grackle]
@@ -313,6 +316,7 @@ creature_birds
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_ORIOLE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small yellow and black bird.  They feed in the canopy of the forest.]
 	[NAME:oriole:orioles:oriole]
 	[CASTE_NAME:oriole:orioles:oriole]
@@ -413,6 +417,7 @@ creature_birds
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_RW_BLACKBIRD]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small black bird with bright red markings under the wings.  They live in the marshland.]
 	[NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]
 	[CASTE_NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]
@@ -523,7 +528,8 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 	Greenacre
 	Theq629
 
-[CREATURE:BIRD_PENGUIN] (based on Magellanic penguin like the ones in the local zoo, while we only have 3 kinds)
+[CREATURE:BIRD_PENGUIN]
+	[NATURAL:DISCIPLINE:3] (based on Magellanic penguin like the ones in the local zoo, while we only have 3 kinds)
 	[DESCRIPTION:A small flightless bird that lives on arctic shorelines.]
 	[NAME:penguin:penguins:penguin]
 	[CASTE_NAME:penguin:penguins:penguin]
@@ -619,6 +625,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_PENGUIN_LITTLE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small flightless bird, blue in color, that lives on arctic shorelines.]
 	[NAME:little penguin:little penguins:little penguin]
 	[CASTE_NAME:little penguin:little penguins:little penguin]
@@ -715,6 +722,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_PENGUIN_EMPEROR]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small flightless bird, it is the largest of the natural penguins.  It is known for its treks through leagues of glacial ice.]
 	[NAME:emperor penguin:emperor penguins:emperor penguin]
 	[CASTE_NAME:emperor penguin:emperor penguins:emperor penguin]
@@ -811,6 +819,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:PENGUIN MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_PENGUIN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_TAG:BODY]
@@ -841,6 +850,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:1]
 
 [CREATURE:BIRD_PENGUIN_GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_PENGUIN]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -875,6 +885,7 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	John Tait from Harrow, Middlesex: "Hunting food for vermin"
 
 [CREATURE:BIRD_FALCON_PEREGRINE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small bird of prey that is capable of great speed.  They dive on unsuspecting vermin.]
 	[NAME:peregrine falcon:peregrine falcons:peregrine falcon]
 	[GENERAL_CHILD_NAME:peregrine falcon chick:peregrine falcon chicks]
@@ -995,6 +1006,7 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:PEREGRINE FALCON MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_FALCON_PEREGRINE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[CV_REMOVE_TAG:DIVE_HUNTS_VERMIN]
@@ -1024,6 +1036,7 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT PEREGRINE FALCON]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_FALCON_PEREGRINE]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1060,6 +1073,7 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	Gregory Kampjes, McLovin
 
 [CREATURE:BIRD_KIWI]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small, brown, flightless bird.  It eats insects and grubs and is known for its keen sense of smell.]
 	[NAME:kiwi:kiwis:kiwi]
 	[CHILD:1][GENERAL_CHILD_NAME:kiwi chick:kiwi chicks]
@@ -1154,6 +1168,7 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KIWI MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_KIWI]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1180,6 +1195,7 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:BIRD_KIWI_GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_KIWI]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1218,6 +1234,7 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	Tristan Hayes
 
 [CREATURE:BIRD_OSTRICH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A large flightless bird that runs through the savanna.  It has a long neck and legs.]
 	[NAME:ostrich:ostriches:ostrich]
 	[CHILD:1][GENERAL_CHILD_NAME:ostrich chick:ostrich chicks]
@@ -1337,6 +1354,7 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:OSTRICH MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_OSTRICH]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1363,6 +1381,7 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 
 [CREATURE:BIRD_OSTRICH_GIANT]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BIRD_OSTRICH]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]

@@ -3,6 +3,7 @@ creature_reptiles
 [OBJECT:CREATURE]
 
 [CREATURE:LIZARD]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A small reptile.]
 	[NAME:lizard:lizards:lizard]
 	[CASTE_NAME:lizard:lizards:lizard]

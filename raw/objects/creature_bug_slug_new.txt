@@ -7,6 +7,7 @@ Damselflies were sponsored by the generous contributions of the Bay 12 community
 	C.J. Hull
 
 [CREATURE:DAMSELFLY]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny, colorful, long-bodied insect.]
 	[NAME:damselfly:damselflies:damselfly]
 	[CASTE_NAME:damselfly:damselflies:damselfly]
@@ -60,6 +61,7 @@ Damselflies were sponsored by the generous contributions of the Bay 12 community
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:DAMSELFLY_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:DAMSELFLY]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -84,6 +86,7 @@ Damselflies were sponsored by the generous contributions of the Bay 12 community
 	[COLOR:3:0:1]
 
 [CREATURE:GIANT_DAMSELFLY]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:DAMSELFLY]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -115,6 +118,7 @@ Moths were sponsored by the generous contributions of the Bay 12 community.
 	Shakkara thinks this game had a serious lack of cute moths
 
 [CREATURE:MOTH]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny nocturnal insect.  It flies toward flames in the night.]
 	[CREATURE_TILE:249][COLOR:6:0:0]
 	[NAME:moth:moths:moth]
@@ -168,6 +172,7 @@ Moths were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MOTH_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MOTH]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -192,6 +197,7 @@ Moths were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_MOTH]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MOTH]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -222,6 +228,7 @@ Grasshoppers were sponsored by the generous contributions of the Bay 12 communit
 	Bernard Suits
 
 [CREATURE:GRASSHOPPER]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny insect which uses its powerful legs to leap and make noise.]
 	[NAME:grasshopper:grasshoppers:grasshopper]
 	[CASTE_NAME:grasshopper:grasshoppers:grasshopper]
@@ -273,6 +280,7 @@ Grasshoppers were sponsored by the generous contributions of the Bay 12 communit
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:GRASSHOPPER_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:GRASSHOPPER]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -296,6 +304,7 @@ Grasshoppers were sponsored by the generous contributions of the Bay 12 communit
 	[COLOR:2:0:1]
 
 [CREATURE:GIANT_GRASSHOPPER]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:GRASSHOPPER]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -325,6 +334,7 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 	in fond memory of Ivan
 
 [CREATURE:BARK_SCORPION]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny yellow bug.  It has pincers and a stinging tail which can prove fatal.]
 	[NAME:bark scorpion:bark scorpions:bark scorpion]
 	[CASTE_NAME:bark scorpion:bark scorpions:bark scorpion]
@@ -403,6 +413,7 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BARK_SCORPION_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BARK_SCORPION]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -427,6 +438,7 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 	[COLOR:6:0:1]
 
 [CREATURE:GIANT_BARK_SCORPION]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:BARK_SCORPION]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -455,6 +467,7 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 Mantises were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:MANTIS]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny green insect.  It has long, distinctive forelimbs that it uses to catch its prey.]
 	[NAME:mantis:mantises:mantis]
 	[CASTE_NAME:mantis:mantises:mantis]
@@ -511,6 +524,7 @@ Mantises were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MANTIS_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MANTIS]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -536,6 +550,7 @@ Mantises were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:2:0:1]
 
 [CREATURE:GIANT_MANTIS]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MANTIS]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -567,6 +582,7 @@ Ticks were sponsored by the generous contributions of the Bay 12 community.
 	infection vector extraordinaire!
 
 [CREATURE:TICK]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny, blood-sucking bug found in wooded areas.]
 	[NAME:tick:ticks:tick]
 	[CASTE_NAME:tick:ticks:tick]
@@ -621,6 +637,7 @@ Ticks were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:TICK_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:TICK]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -645,6 +662,7 @@ Ticks were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_TICK]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:TICK]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -674,6 +692,7 @@ Lice were sponsored by the generous contributions of the Bay 12 community.
 	Maldoror
 
 [CREATURE:LOUSE]
+	[NATURAL:DISCIPLINE:3]
 	Should not be able to survive away from host.
 	[DESCRIPTION:A tiny parasitic insect.  It feeds on skin and blood.]
 	[NAME:louse:lice:louse]
@@ -728,6 +747,7 @@ Lice were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:LOUSE_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:LOUSE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -752,6 +772,7 @@ Lice were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_LOUSE]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:LOUSE]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -781,6 +802,7 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 	For Sachin Gadani
 
 [CREATURE:THRIPS]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny pest insect.  It feeds on both crops and other bugs.]
 	[NAME:thrips:thrips:thrips]
 	[CASTE_NAME:thrips:thrips:thrips]
@@ -836,6 +858,7 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:THRIPS_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:THRIPS]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -860,6 +883,7 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_THRIPS]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:THRIPS]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -888,6 +912,7 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 Slugs were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:SLUG]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny land mollusk.  It can be found under rotten logs and in gardens.]
 	[NAME:slug:slugs:slug]
 	[CASTE_NAME:slug:slugs:slug]
@@ -931,6 +956,7 @@ Slugs were sponsored by the generous contributions of the Bay 12 community.
 			[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:SLUG_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SLUG]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS]
 	[GO_TO_END]
@@ -949,6 +975,7 @@ Slugs were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_SLUG]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SLUG]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -975,6 +1002,7 @@ Slugs were sponsored by the generous contributions of the Bay 12 community.
 Mosquitos were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:MOSQUITO]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny pest insect.  It uses its long nose to suck blood from its host.]
 	[NAME:mosquito:mosquitos:mosquito]
 	[CASTE_NAME:mosquito:mosquitos:mosquito]
@@ -1033,6 +1061,7 @@ Mosquitos were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MOSQUITO_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MOSQUITO]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1058,6 +1087,7 @@ Mosquitos were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_MOSQUITO]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MOSQUITO]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1089,6 +1119,7 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 	John 'Chaoseed' Evans
 
 [CREATURE:SPIDER_JUMPING]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny black bug that lacks a web but can leap short distances.]
 	[NAME:jumping spider:jumping spiders:jumping spider]
 	[CASTE_NAME:jumping spider:jumping spiders:jumping spider]
@@ -1141,6 +1172,7 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:JUMPING_SPIDER_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SPIDER_JUMPING]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1165,6 +1197,7 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_JUMPING_SPIDER]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SPIDER_JUMPING]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1195,6 +1228,7 @@ Termites were sponsored by the generous contributions of the Bay 12 community.
 	RiceMunk
 
 [CREATURE:TERMITE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny insect capable of destroying large wooden structures when in large numbers.]
 	[NAME:termite:termites:termite]
 	[CREATURE_TILE:250][COLOR:7:0:1]
@@ -1262,6 +1296,7 @@ Moon snails were sponsored by the generous contributions of the Bay 12 community
 	"In soviet russia, snail eats YOU with tiny fork!"
 
 [CREATURE:MOON_SNAIL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny predatory mollusk.  It is brightly colored.]
 	[NAME:moon snail:moon snails:moon snail]
 	[CASTE_NAME:moon snail:moon snails:moon snail]
@@ -1317,6 +1352,7 @@ Moon snails were sponsored by the generous contributions of the Bay 12 community
 			[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:MOON_SNAIL_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MOON_SNAIL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1340,6 +1376,7 @@ Moon snails were sponsored by the generous contributions of the Bay 12 community
 	[COLOR:4:0:1]
 
 [CREATURE:GIANT_MOON_SNAIL]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:MOON_SNAIL]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
@@ -1369,6 +1406,7 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 	Arthemax
 
 [CREATURE:SPIDER_BROWN_RECLUSE]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny brown bug known for its powerful poison.]
 	[NAME:brown recluse spider:brown recluse spiders:brown recluse spider]
 	[CASTE_NAME:brown recluse spider:brown recluse spiders:brown recluse spider]
@@ -1443,6 +1481,7 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BROWN_RECLUSE_SPIDER_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SPIDER_BROWN_RECLUSE]
 	[CV_CONVERT_TAG]
 		[CVCT_MASTER:STATE_NAME]
@@ -1484,6 +1523,7 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 	[COLOR:6:0:0]
 
 [CREATURE:GIANT_BROWN_RECLUSE_SPIDER]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SPIDER_BROWN_RECLUSE]
 	[CV_CONVERT_TAG]
 		[CVCT_MASTER:STATE_NAME]
@@ -1530,6 +1570,7 @@ Snails were sponsored by the generous contributions of the Bay 12 community.
 	Liegrean
 
 [CREATURE:SNAIL]
+	[NATURAL:DISCIPLINE:3]
 	[DESCRIPTION:A tiny land mollusk with a large shell.]
 	[NAME:snail:snails:snail]
 	[CASTE_NAME:snail:snails:snail]
@@ -1579,6 +1620,7 @@ Snails were sponsored by the generous contributions of the Bay 12 community.
 			[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:SNAIL_MAN]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SNAIL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
 	[GO_TO_END]
@@ -1598,6 +1640,7 @@ Snails were sponsored by the generous contributions of the Bay 12 community.
 	[COLOR:7:0:0]
 
 [CREATURE:GIANT_SNAIL]
+	[NATURAL:DISCIPLINE:3]
 	[COPY_TAGS_FROM:SNAIL]
 	[APPLY_CREATURE_VARIATION:GIANT]
 	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
