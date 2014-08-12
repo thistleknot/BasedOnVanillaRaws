@@ -3,7 +3,7 @@ BasedOnVanillaRaws
 
 Download link up to date with this post:
 
-	https://github.com/thistleknot/BasedOnVanillaRaws/archive/407bd542f40e96ca540fd0e898cdfcfbc8845feb.zip
+	https://github.com/thistleknot/BasedOnVanillaRaws/archive/bf8cc89ea8a3fcbdc28e8ddc87b9438de13df3d5.zip
 
 Commits [unified] for this mod (UP TO DATE AFTER THIS POST):
 
