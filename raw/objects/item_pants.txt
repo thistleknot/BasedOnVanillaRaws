@@ -16,7 +16,7 @@ item_pants
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_PANTS:ITEM_PANTS_GREAVES]
-this item doesn't make much sense right now, but there aren't any item types you can tie on to your legs yet
+	this item doesn't make much sense right now, but there aren't any item types you can tie on to your legs yet
 [NAME:greaves:greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
