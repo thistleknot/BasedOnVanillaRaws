@@ -1,7 +1,5 @@
 item_helm
-
 [OBJECT:ITEM]
-
 [ITEM_HELM:ITEM_HELM_HELM]
 [NAME:helm:helms]
 [ARMORLEVEL:1]
@@ -18,7 +16,6 @@ item_helm
 [SCALED]
 [LEATHER]
 [SHAPED]
-
 [ITEM_HELM:ITEM_HELM_HOOD]
 [NAME:hood:hoods]
 [LAYER:COVER]

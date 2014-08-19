@@ -1,7 +1,5 @@
 item_trapcomp
-
 [OBJECT:ITEM]
-
 [ITEM_TRAPCOMP:ITEM_TRAPCOMP_GIANTAXEBLADE]
 [NAME:axe blade:axe blades]
 [ADJECTIVE:giant]
@@ -10,7 +8,6 @@ item_trapcomp
 [MATERIAL_SIZE:5]
 [METAL]
 [ATTACK:EDGE:100000:10000:slash:slashes:NO_SUB:1000]
-
 [ITEM_TRAPCOMP:ITEM_TRAPCOMP_ENORMOUSCORKSCREW]
 [NAME:corkscrew:corkscrews]
 [ADJECTIVE:enormous]
@@ -21,7 +18,6 @@ item_trapcomp
 [WOOD]
 [METAL]
 [ATTACK:EDGE:100:10000:drill:drills:NO_SUB:1000]
-
 [ITEM_TRAPCOMP:ITEM_TRAPCOMP_SPIKEDBALL]
 [NAME:ball:balls]
 [ADJECTIVE:spiked]
@@ -31,7 +27,6 @@ item_trapcomp
 [WOOD]
 [METAL]
 [ATTACK:EDGE:10:200:strike:strikes:NO_SUB:1000]
-
 [ITEM_TRAPCOMP:ITEM_TRAPCOMP_LARGESERRATEDDISC]
 [NAME:disc:discs]
 [ADJECTIVE:large, serrated]
@@ -40,7 +35,6 @@ item_trapcomp
 [MATERIAL_SIZE:4]
 [METAL]
 [ATTACK:EDGE:100000:10000:saw:saws:NO_SUB:1000]
-
 [ITEM_TRAPCOMP:ITEM_TRAPCOMP_MENACINGSPIKE]
 [NAME:spike:spikes]
 [ADJECTIVE:menacing]
