@@ -1,7 +1,5 @@
 item_gloves
-
 [OBJECT:ITEM]
-
 [ITEM_GLOVES:ITEM_GLOVES_GAUNTLETS]
 [NAME:gauntlet:gauntlets]
 [ARMORLEVEL:2]
@@ -16,7 +14,6 @@ item_gloves
 [BARRED]
 [METAL]
 [HARD]
-
 [ITEM_GLOVES:ITEM_GLOVES_GLOVES]
 [NAME:glove:gloves]
 [MATERIAL_SIZE:1]
@@ -27,7 +24,6 @@ item_gloves
 [SOFT]
 [LEATHER]
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
-
 [ITEM_GLOVES:ITEM_GLOVES_MITTENS]
 [NAME:mitten:mittens]
 [LAYER:COVER]

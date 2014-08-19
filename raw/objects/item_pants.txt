@@ -1,7 +1,5 @@
 item_pants
-
 [OBJECT:ITEM]
-
 [ITEM_PANTS:ITEM_PANTS_PANTS]
 [PREPLURAL:pairs of]
 [NAME:trousers:trousers]
@@ -14,9 +12,8 @@ item_pants
 [SOFT]
 [LEATHER]
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
-
 [ITEM_PANTS:ITEM_PANTS_GREAVES]
-	this item doesn't make much sense right now, but there aren't any item types you can tie on to your legs yet
+this item doesn't make much sense right now, but there aren't any item types you can tie on to your legs yet
 [NAME:greaves:greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -29,7 +26,6 @@ item_pants
 [METAL]
 [BARRED]
 [HARD]
-
 [ITEM_PANTS:ITEM_PANTS_LEGGINGS]
 [NAME:leggings:leggings]
 [CHAIN_METAL_TEXT]
@@ -47,7 +43,6 @@ item_pants
 [LEATHER]
 [BARRED]
 [STRUCTURAL_ELASTICITY_CHAIN_METAL]
-
 [ITEM_PANTS:ITEM_PANTS_LOINCLOTH]
 [NAME:loincloth:loincloths]
 [LAYER:UNDER]
@@ -58,7 +53,6 @@ item_pants
 [SOFT]
 [LEATHER]
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
-
 [ITEM_PANTS:ITEM_PANTS_THONG]
 [NAME:thong:thongs]
 [LAYER:UNDER]
@@ -69,7 +63,6 @@ item_pants
 [SOFT]
 [LEATHER]
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
-
 [ITEM_PANTS:ITEM_PANTS_SKIRT]
 [NAME:skirt:skirts]
 [LBSTEP:1]
@@ -81,7 +74,6 @@ item_pants
 [SOFT]
 [LEATHER]
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
-
 [ITEM_PANTS:ITEM_PANTS_SKIRT_SHORT]
 [NAME:short skirt:short skirts]
 [LAYER:OVER]
@@ -92,7 +84,6 @@ item_pants
 [SOFT]
 [LEATHER]
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
-
 [ITEM_PANTS:ITEM_PANTS_SKIRT_LONG]
 [NAME:long skirt:long skirts]
 [LBSTEP:MAX]
@@ -104,7 +95,6 @@ item_pants
 [SOFT]
 [LEATHER]
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
-
 [ITEM_PANTS:ITEM_PANTS_BRAIES]
 [PREPLURAL:pairs of]
 [NAME:braies:braies]
