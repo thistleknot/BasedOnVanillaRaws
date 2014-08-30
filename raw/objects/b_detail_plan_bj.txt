@@ -1,5 +1,5 @@
 b_detail_plan_default
-
+##Not really using these, but in theory, I could replace the individual creatures with a [BODY_DETAIL_PLAN:] line and update the creature_mat:animal to their respective creature_mat:animal_leather2, etc.
 [OBJECT:BODY_DETAIL_PLAN]
 
 [BODY_DETAIL_PLAN:SINEW_LEATHER]
