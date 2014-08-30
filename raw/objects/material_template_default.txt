@@ -203,6 +203,10 @@ material_template_default
 	This lets the game know that an animal was likely killed in the production of this item.
 	[IMPLIES_ANIMAL_KILL]
 	[ROTS]
+	[STOCKPILE_GLOB]
+	[DO_NOT_CLEAN_GLOB]
+	[BUTCHER_SPECIAL:GLOB:NONE]
+	[REACTION_CLASS:SKIN]
 
 [MATERIAL_TEMPLATE:FAT_TEMPLATE]
 	[STATE_COLOR:ALL_SOLID:YELLOW]
