@@ -3,6 +3,11 @@
 # Generic dwarfmode bindings #
 ##############################
 
+keybinding add Alt-N@choose_start_site "embark-tools enable nano"
+
+# activate Text will be Text multilevel view
+multilevel 5
+
 keybinding add Ctrl-F1 hotkeys
 keybinding add Ctrl-H hotkeys
 
