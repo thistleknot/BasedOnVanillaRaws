@@ -1,7 +1,5 @@
 item_gloves
-
 [OBJECT:ITEM]
-
 [ITEM_GLOVES:ITEM_GLOVES_GAUNTLETS]
 [NAME:gauntlet:gauntlets]
 [ARMORLEVEL:2]

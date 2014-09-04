@@ -1,7 +1,5 @@
 item_tool_leatherupgrade
-
 [OBJECT:ITEM]
-
 [ITEM_TOOL:ITEM_TOOL_ARMOR_STUD]
 [NAME:pile of armor studs:pile of armor studs]
 [VALUE:1]

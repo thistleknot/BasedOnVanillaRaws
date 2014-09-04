@@ -1,7 +1,5 @@
 item_armor
-
 [OBJECT:ITEM]
-
 [ITEM_ARMOR:ITEM_ARMOR_BREASTPLATE]
 [NAME:breastplate:breastplates]
 [ARMORLEVEL:3]
@@ -15,7 +13,6 @@ item_armor
 [MATERIAL_SIZE:9]
 [HARD]
 [METAL]
-
 [ITEM_ARMOR:ITEM_ARMOR_MAIL_SHIRT]
 [NAME:mail shirt:mail shirts]
 [ARMORLEVEL:2]
@@ -29,7 +26,6 @@ item_armor
 [HARD]
 [METAL]
 [STRUCTURAL_ELASTICITY_CHAIN_ALL]
-
 [ITEM_ARMOR:ITEM_ARMOR_LEATHER]
 [NAME:armor:armor]
 [PREPLURAL:suits of]
@@ -44,7 +40,6 @@ item_armor
 [LAYER_PERMIT:50]
 [MATERIAL_SIZE:6]
 [LEATHER]
-
 [ITEM_ARMOR:ITEM_ARMOR_SHIRT]
 [NAME:shirt:shirts]
 [UBSTEP:MAX]
@@ -57,7 +52,6 @@ item_armor
 [SOFT]
 [LEATHER]
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
-
 [ITEM_ARMOR:ITEM_ARMOR_CLOAK]
 [NAME:cloak:cloaks]
 [UBSTEP:MAX]
