@@ -251,6 +251,28 @@ enable automaterial
 # allow the fortress bookkeeper to queue jobs through the manager
 stockflow enable
 
+dwarfmonitor enable all
+
+embark-tools enable
+
+title-version enable
+
+load-screen enable
+
+keybinding add Alt-S@title settings-manager
+
+keybinding add Alt-S@dwarfmode/Default settings-manager
+
+keybinding add Alt-Q@jobmanagement manager-quantity
+
+keybinding add Alt-Shift-I@dwarfmode/Zones "zone set"
+
+keybinding add Alt-M@dwarfmode/Default "dwarfmonitor prefs"
+
+keybinding add Ctrl-F@dwarfmode/Default "dwarfmonitor stats"
+
+keybinding add Ctrl-Shift-F forum-dwarves
+
 ###########
 # Scripts #
 ###########
