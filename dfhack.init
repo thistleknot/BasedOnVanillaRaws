@@ -11,8 +11,8 @@ multilevel 5
 keybinding add Ctrl-F1 hotkeys
 keybinding add Ctrl-H hotkeys
 
-keybinding add Alt-N@choose_start_site "embark_site nano"
-keybinding add Alt-E@choose_start_site "embark_site here"
+keybinding add Alt-N@choose_start_site "embark-tools nano"
+keybinding add Alt-E@choose_start_site "embark_tools here"
 enable automaterial
 
 enable autotrade
