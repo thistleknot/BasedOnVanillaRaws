@@ -2747,7 +2747,7 @@ Samthere - Release the war tapirs!
 [MEANDERER]
 [PET_EXOTIC]
 (GRAZER:300)
-[GRAZER:694]
+[STANDARD_GRAZER]
 changed by Igfig
 [BODY:QUADRUPED_NECK:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:4TOES_FQ_REG:3TOES_RQ_REG:MOUTH:GENERIC_TEETH:RIBCAGE]
 [NATURAL]
@@ -2900,7 +2900,7 @@ work needed
 [PET_EXOTIC]
 [PETVALUE:500]
 [MOUNT_EXOTIC]
-[GRAZER:125]
+[STANDARD_GRAZER]
 changed by Igfig
 [GO_TO_END]
 [PREFSTRING:floppy noses]
@@ -2923,7 +2923,7 @@ Impalas were sponsored by the generous contributions of the Bay 12 community.
 [PETVALUE:50]
 [PET_EXOTIC]
 (GRAZER:1200)
-[GRAZER:2106]
+[STANDARD_GRAZER]
 changed by Igfig
 [VISION_ARC:50:310]
 [PREFSTRING:mighty leaps]
@@ -3066,7 +3066,7 @@ changed by Igfig
 [PET_EXOTIC]
 [PETVALUE:500]
 [MOUNT_EXOTIC]
-[GRAZER:304]
+[STANDARD_GRAZER]
 changed by Igfig
 [GO_TO_END]
 [PREFSTRING:mighty leaps]

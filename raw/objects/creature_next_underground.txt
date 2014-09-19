@@ -820,7 +820,7 @@ not skin -- it is eaten rather than tanned
 [PET_EXOTIC]
 [MOUNT_EXOTIC]
 (GRAZER:600)
-[GRAZER:1209]
+[STANDARD_GRAZER]
 changed by Igfig
 [CHILD:1]
 [ALL_ACTIVE]
@@ -1271,7 +1271,7 @@ changed by Igfig
 [PETVALUE:500]
 [PET_EXOTIC]
 (GRAZER:24)
-[GRAZER:92]
+[STANDARD_GRAZER]
 changed by Igfig
 [LARGE_ROAMING]
 [BIOME:SUBTERRANEAN_CHASM]

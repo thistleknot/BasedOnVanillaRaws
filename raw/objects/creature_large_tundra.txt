@@ -20,7 +20,7 @@ creature_large_tundra
 [PETVALUE:300]
 [PET_EXOTIC]
 (GRAZER:210)
-[GRAZER:523]
+[STANDARD_GRAZER]
 changed by Igfig
 [VISION_ARC:50:310]
 [WAGON_PULLER]
@@ -122,7 +122,7 @@ changed by Igfig
 [PETVALUE:100]
 [PET_EXOTIC]
 (GRAZER:200)
-[GRAZER:502]
+[STANDARD_GRAZER]
 changed by Igfig
 [VISION_ARC:50:310]
 [PREFSTRING:grace]

@@ -225,7 +225,7 @@ creature_large_temperate
 [COLOR:6:0:0]
 [PETVALUE:50]
 (GRAZER:428)
-[GRAZER:924]
+[STANDARD_GRAZER]
 changed by Igfig
 [PREFSTRING:grace]
 [GRASSTRAMPLE:0]
@@ -847,7 +847,7 @@ This is the binocular and non-binocular vision arcs.
 [COLOR:6:0:0]
 [PETVALUE:50]
 [PET_EXOTIC]
-[GRAZER:20000]
+[STANDARD_GRAZER]
 [NATURAL]
 [BIOME:SHRUBLAND_TEMPERATE]
 [BIOME:SAVANNA_TEMPERATE]
@@ -1179,7 +1179,7 @@ Masaka
 [PET]
 [NATURAL]
 (GRAZER:462)
-[GRAZER:6188]
+[STANDARD_GRAZER]
 changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 the size
 [LARGE_ROAMING]
 [POPULATION_NUMBER:2:3]
@@ -1309,7 +1309,7 @@ have seen various musings on this, but don't have anything solid, and no good pi
 [CREATURE_TILE:'P']
 [COLOR:7:0:1]
 (GRAZER:92)
-[GRAZER:1073]
+[STANDARD_GRAZER]
 changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 the size
 [TRAINABLE]
 [PET_EXOTIC]
@@ -1375,7 +1375,7 @@ changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 the si
 [MAXAGE:60:80]
 [CREATURE_TILE:'P']
 [COLOR:7:0:1]
-[GRAZER:600]
+[STANDARD_GRAZER]
 Capybaras were sponsored by the generous contributions of the Bay 12 community.
 Speak!
 DrVoke
@@ -1396,7 +1396,7 @@ Cameo
 [PET]
 [NATURAL]
 (GRAZER:1333)
-[GRAZER:2291]
+[STANDARD_GRAZER]
 changed by Igfig
 [AMPHIBIOUS]
 [LARGE_ROAMING]
@@ -1511,7 +1511,7 @@ need more info
 [CREATURE_TILE:'C']
 [COLOR:6:0:0]
 (GRAZER:133)
-[GRAZER:321]
+[STANDARD_GRAZER]
 changed by Igfig
 [PET_EXOTIC]
 [PETVALUE:500]
@@ -1564,7 +1564,7 @@ changed by Igfig
 [MAXAGE:60:80]
 [CREATURE_TILE:'c']
 [COLOR:6:0:0]
-[GRAZER:500]
+[STANDARD_GRAZER]
 Badgers were sponsored by the generous contributions of the Bay 12 community.
 Skadan
 Arcturis
@@ -1808,7 +1808,7 @@ A møøse once bit my sister. / Mynd you, møøse bites kan be pretty nasti...
 [MULTIPLE_LITTER_RARE]
 [BODY:QUADRUPED_NECK_HOOF:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:MOUTH:TONGUE:GENERIC_TEETH:RIBCAGE]
 (GRAZER:190)
-[GRAZER:483]
+[STANDARD_GRAZER]
 changed by Igfig
 [BODY_SIZE:0:0:31500]
 [BODY_SIZE:1:0:157500]
@@ -1825,7 +1825,7 @@ changed by Igfig
 [ATTACK_FLAG_WITH]
 [ATTACK_PRIORITY:MAIN]
 (GRAZER:114)
-[GRAZER:321]
+[STANDARD_GRAZER]
 changed by Igfig
 [BODY_SIZE:0:0:31500]
 [BODY_SIZE:1:0:262500]
@@ -1908,10 +1908,10 @@ changed by Igfig
 [GO_TO_END]
 [SELECT_CASTE:MALE]
 [CASTE_NAME:moose man:moose men:moose man]
-[GRAZER:300]
+[STANDARD_GRAZER]
 [SELECT_CASTE:FEMALE]
 [CASTE_NAME:moose woman:moose women:moose woman]
-[GRAZER:200]
+[STANDARD_GRAZER]
 [SELECT_CASTE:ALL]
 [APPLY_CREATURE_VARIATION:PUNCH_ATTACK]
 [APPLY_CREATURE_VARIATION:HOOF_ATTACK]
@@ -1957,12 +1957,12 @@ changed by Igfig
 [GO_TO_END]
 [SELECT_CASTE:FEMALE]
 (GRAZER:38)
-[GRAZER:90]
+[STANDARD_GRAZER]
 changed by Igfig
 [CASTE_NAME:giant moose cow:giant moose cows:giant moose cow]
 [SELECT_CASTE:MALE]
 (GRAZER:23)
-[GRAZER:60]
+[STANDARD_GRAZER]
 changed by Igfig
 [CASTE_NAME:giant moose bull:giant moose bulls:giant moose bull]
 [SELECT_CASTE:ALL]
@@ -1995,7 +1995,7 @@ m0nster
 [CLUSTER_NUMBER:1:1]
 [BIOME:ANY_TEMPERATE_FOREST]
 (GRAZER:12000)
-[GRAZER:83859]
+[STANDARD_GRAZER]
 changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 their size
 [BENIGN]
 [GRASSTRAMPLE:0]
@@ -2161,7 +2161,7 @@ changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 their 
 [CV_ADD_TAG:PLUS_TL_GROUP:BY_CATEGORY:LEG:HAIR]
 [CV_ADD_TAG:PLUS_TL_GROUP:BY_CATEGORY:FOOT:HAIR]
 [APPLY_CURRENT_CREATURE_VARIATION]
-[GRAZER:1000]
+[STANDARD_GRAZER]
 [GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 [TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 [CREATURE:RED PANDA, GIANT]
@@ -2192,7 +2192,7 @@ changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 their 
 [CASTE_NAME:giant red panda sow:giant red panda sows:giant red panda sow]
 [SELECT_CASTE:ALL]
 [PREFSTRING:large striped tails]
-[GRAZER:3852]
+[STANDARD_GRAZER]
 changed by Igfig; creatures with SPECIFIC_FOOD graze as if they were 1/10 their size
 [APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:679:458:231:1900:2900]
 38 kph
