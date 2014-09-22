@@ -203,6 +203,8 @@ used data for human skin
 [ABSORPTION:100]
 This lets the game know to use this item to determine the exact material type for the leather product in the tanning reaction.
 [MATERIAL_REACTION_PRODUCT:TAN_MAT:CREATURE_MAT:ANIMAL:LEATHER]
+[REACTION_CLASS:LEATHER_NORMAL]
+[MATERIAL_REACTION_PRODUCT:TAN_UPGRADE:LOCAL_CREATURE_MAT:LEATHER_2]
 This lets the game know that an animal was likely killed in the production of this item.
 [IMPLIES_ANIMAL_KILL]
 [ROTS]
@@ -1367,8 +1369,6 @@ used bone for all of these, no data
 [BENDING_STRAIN_AT_YIELD:100]
 [MAX_EDGE:1000]
 [ABSORPTION:100]
-[REACTION_CLASS:LEVEL_1]
-[MATERIAL_REACTION_PRODUCT:TAN_UPGRADE:LOCAL_CREATURE_MAT:LEATHER_2]
 [IMPLIES_ANIMAL_KILL]
 [ROTS]
 [MATERIAL_TEMPLATE:HOOF_TEMPLATE]
