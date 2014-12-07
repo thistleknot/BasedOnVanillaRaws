@@ -11,9 +11,8 @@ creature_large_tropical
 [COLOR:7:0:0]
 [PETVALUE:500]
 [PET]
-(GRAZER:12) don't have browsing trees yet
+don't have browsing trees yet
 [STANDARD_GRAZER]
-changed by Igfig
 [MOUNT_EXOTIC]
 [TRAINABLE]
 [LARGE_ROAMING]
@@ -106,9 +105,7 @@ changed by Igfig
 [COLOR:6:0:0]
 [PETVALUE:100]
 [PET_EXOTIC]
-(GRAZER:600)
 [STANDARD_GRAZER]
-changed by Igfig
 [VISION_ARC:50:310]
 [PREFSTRING:short tempers]
 [GRASSTRAMPLE:0]
@@ -777,9 +774,7 @@ changed by Igfig
 [COLOR:6:0:0]
 [PETVALUE:50]
 [PET_EXOTIC]
-(GRAZER:3000)
 [STANDARD_GRAZER]
-changed by Igfig
 [VISION_ARC:50:310]
 [PREFSTRING:grace]
 [GRASSTRAMPLE:0]
@@ -2710,9 +2705,7 @@ changed by Igfig
 [PETVALUE:500]
 [PET_EXOTIC]
 [MOUNT_EXOTIC]
-(GRAZER:20)
 [STANDARD_GRAZER]
-changed by Igfig
 [VISION_ARC:50:310]
 [TRAINABLE]
 [LARGE_ROAMING]
@@ -2804,9 +2797,8 @@ changed by Igfig
 [PETVALUE:500]
 [PET_EXOTIC]
 [MOUNT_EXOTIC]
-(GRAZER:60) no tree browsing yet
+no tree browsing yet
 [STANDARD_GRAZER]
-changed by Igfig
 [VISION_ARC:50:310]
 [TRAINABLE]
 [LARGE_ROAMING]
